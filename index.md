@@ -5,7 +5,7 @@ Shortly after my postdoctoral training I was recruited into the Intramural Resea
 
 I joined the Office of Data Science and Emerging Technologies at the National Institute of Allergy and Infectious Diseases (NIAID) in 2020 as a detailee. I currently serve as the Genomic Program Administrator and Chair of the Data Access Committee for NIAID. 
 
-Outside of my career, I am an avid photographer and nature enthusiast. I enjoy spending time adventuring with my kiddo, Grafton, and our two dogs, Nancy Reagan and Tanner the Mayor. 
+Outside of my career, I am an [avid photographer](photography) and nature enthusiast. I enjoy spending time adventuring with my kiddo, Grafton, and our two dogs, Nancy Reagan and Tanner the Mayor. 
 
 ## My professional things
 - <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-0899-6143" href="https://orcid.org/0000-0002-0899-6143" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-0899-6143</a></div>
