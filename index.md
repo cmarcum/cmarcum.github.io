@@ -6,5 +6,5 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## My internet things
 - ![](logos/tw.png) [twitter](https://twitter.com/csmarcum)
 - ![](logos/gh.png) [github](https://github.com/cmarcum)
-- ![](logos/rd.png) [github](https://reddit.com/csmarcum)
-- ![](logos/ig.png) [github](https://instagram.com/csmarcum)
+- ![](logos/rd.png) [reddit](https://reddit.com/csmarcum)
+- ![](logos/ig.png) [instagram](https://instagram.com/csmarcum)
