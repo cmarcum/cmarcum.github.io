@@ -6,8 +6,10 @@ Shortly after his postdoctoral training he was recruited into the Intramural Res
 Dr. Marcum joined the Office of Data Science and Emerging Technologies at the National Institute of Allergy and Infectious Diseases (NIAID) in 2020 as a detailee. He currently serves as the Genomic Program Administrator and Chair of the Data Access Committee for NIAID. 
 
 ## My research things
-- ![](logos/ORCID.png) <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-0899-6143" href="https://orcid.org/0000-0002-0899-6143" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-0899-6143</a></div>
-- ![](logos/hnet.png) [a graphical resume](docs/MarcumResume.pdf)
+- ![](logos/ORCID.png) 
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-0899-6143" href="https://orcid.org/0000-0002-0899-6143" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-0899-6143</a></div>
+- ![](logos/hnet.png) 
+[a graphical resume](docs/MarcumResume.pdf)
 
 ## My internet things
 - ![](logos/tw.png) [twitter](https://twitter.com/csmarcum)
