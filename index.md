@@ -5,6 +5,8 @@ Shortly after my postdoctoral training I was recruited into the Intramural Resea
 
 I joined the [Office of Data Science and Emerging Technologies](https://www.niaid.nih.gov/research/data-science) at the National Institute of Allergy and Infectious Diseases (NIAID) in 2020 as a detailee. I currently serve as the Genomic Program Administrator and Chair of the Data Access Committee for NIAID. 
 
+In May of 2021, I was appointed to President Biden's [Scientific Integrity Fast Track Action Committee](https://www.whitehouse.gov/ostp/news-updates/2021/06/25/the-biden-administrations-scientific-integrity-task-force-seeks-ideas-from-the-american-people/) to represent the National Institutes of Health. This work is a whole-of-government effort to report on best practices in, and opportunities for, scientific integrity within US Federal government scientific workforce. The White House Office of Science and Technology Policy is spearheading this effort per the Presidential Memorandum on [Restoring Trust in Government Through Scientific Integrity and Evidence-Based Policymaking](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/memorandum-on-restoring-trust-in-government-through-scientific-integrity-and-evidence-based-policymaking/).
+
 Outside of my career, I am an [avid photographer](photography) and nature enthusiast. I enjoy spending time adventuring with my kiddo, Grafton, and our two dogs, Nancy Reagan and Tanner the Mayor. 
 
 ## My professional things
