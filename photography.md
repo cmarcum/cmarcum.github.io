@@ -1,5 +1,9 @@
 Several of my photos have been featured in publications, garnered awards, and been in juried exhibitions. 
 
+The galleries below are currently offline as Flickr changed its javascript policy and no longer hosts embedded slideshows. I will update these as soon as I find another remote host solution.
+
+I have a small NFT gallery of digital reproductions and original analog prints for sale here: [https://crypto.com/nft/profile/csmarcum](https://crypto.com/nft/profile/csmarcum).
+
 ## Featured Photographs by Chris Marcum
 This gallery is an eclectic collection of my photographs
 
