@@ -8,21 +8,12 @@ I joined the [Office of Data Science and Emerging Technologies](https://www.niai
 In May of 2021, I was appointed to President Biden's [Scientific Integrity Fast Track Action Committee](https://www.whitehouse.gov/ostp/news-updates/2021/06/25/the-biden-administrations-scientific-integrity-task-force-seeks-ideas-from-the-american-people/) to represent the National Institutes of Health. This work is a whole-of-government effort to report on best practices in, and opportunities for, scientific integrity within US Federal government scientific workforce. The White House Office of Science and Technology Policy is spearheading this effort per the Presidential Memorandum on [Restoring Trust in Government Through Scientific Integrity and Evidence-Based Policymaking](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/memorandum-on-restoring-trust-in-government-through-scientific-integrity-and-evidence-based-policymaking/).
 
 Outside of my career, I am an [avid photographer](photography) and nature enthusiast. I enjoy spending time adventuring with my kiddo, Grafton, and our two dogs, Nancy Reagan and Tanner the Mayor. 
-
-## My professional things
-- <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-0899-6143" href="https://orcid.org/0000-0002-0899-6143" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-0899-6143</a></div>
-- [a graphical resume](docs/MarcumResume.pdf)
-- [google scholar profile](https://scholar.google.com/citations?user=J0RbUWoAAAAJ&hl=en)
-- ![](logos/li.png) [linked in](https://www.linkedin.com/in/christopher-steven-marcum-15b88249/)
-
-## My unprofessional things
-- ![](logos/tw.png) [twitter](https://twitter.com/csmarcum)
-- ![](logos/gh.png) [github](https://github.com/cmarcum)
-- ![](logos/rd.png) [reddit](https://reddit.com/csmarcum)
-- ![](logos/ig.png) [instagram](https://instagram.com/csmarcum)
-
-
+--- 
 | My professional things | My unprofessional things |
 |------------------------|--------------------------|
 | <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-0899-6143" href="https://orcid.org/0000-0002-0899-6143" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-0899-6143</a></div> | ![](logos/tw.png) [twitter](https://twitter.com/csmarcum) |
+| [a graphical resume](docs/MarcumResume.pdf) | ![](logos/tw.png) [twitter](https://twitter.com/csmarcum) |
+| [google scholar profile](https://scholar.google.com/citations?user=J0RbUWoAAAAJ&hl=en) | ![](logos/gh.png) [github](https://github.com/cmarcum) |
+| ![](logos/li.png) [linked in](https://www.linkedin.com/in/christopher-steven-marcum-15b88249/) | ![](logos/rd.png) [reddit](https://reddit.com/csmarcum) |
+| [pubmed bibliography](https://www.ncbi.nlm.nih.gov/myncbi/chris.marcum.1/bibliography/public/) | ![](logos/ig.png) [instagram](https://instagram.com/csmarcum) |
 
