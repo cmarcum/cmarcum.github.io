@@ -12,7 +12,7 @@ Outside of my career, I am an [avid photographer](photography) and nature enthus
 | My professional things | My unprofessional things |
 |------------------------|--------------------------|
 | <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-0899-6143" href="https://orcid.org/0000-0002-0899-6143" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-0899-6143</a></div> | ![](logos/tw.png) [twitter](https://twitter.com/csmarcum) |
-| [a graphical resume](docs/MarcumResume.pdf) | ![](logos/tw.png) [twitter](https://twitter.com/csmarcum) |
+| [a graphical resume](docs/MarcumResume.pdf) | [nft](https://crypto.com/nft/profile/csmarcum) |
 | [google scholar profile](https://scholar.google.com/citations?user=J0RbUWoAAAAJ&hl=en) | ![](logos/gh.png) [github](https://github.com/cmarcum) |
 | ![](logos/li.png) [linked in](https://www.linkedin.com/in/christopher-steven-marcum-15b88249/) | ![](logos/rd.png) [reddit](https://reddit.com/csmarcum) |
 | [pubmed bibliography](https://www.ncbi.nlm.nih.gov/myncbi/chris.marcum.1/bibliography/public/) | ![](logos/ig.png) [instagram](https://instagram.com/csmarcum) |
