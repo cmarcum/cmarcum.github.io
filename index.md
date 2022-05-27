@@ -1,5 +1,5 @@
 ## Professional role
-I currently serve as the Assistant Director for Open Science and Data Policy at the White House Office of Science and Technology Policy where I am committed to advancing the Biden-Harris Administration priorities on restoring trust in government through scientific integrity and evidence-based policy making and to delivering a more equitably accessible return on the American public's investments in Federal science and technology. 
+I currently serve as the Assistant Director for Open Science and Data Policy at the White House Office of Science and Technology Policy where I am committed to advancing the Biden-Harris Administration priorities on restoring trust in government through scientific integrity and evidence-based policy making and to delivering a more equitably accessible return on the American public's investments in Federal research and development through open science. 
 
 My ORCID ID is: [0000-0002-0899-6143](https://orcid.org/0000-0002-0899-6143).
 
