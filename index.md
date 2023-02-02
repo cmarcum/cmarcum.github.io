@@ -15,9 +15,10 @@ In May of 2021, I was appointed to President Biden's [Scientific Integrity Fast 
 Outside of my career, I am an [avid photographer](photography) and nature enthusiast. I enjoy spending time adventuring outdoors with my kiddo, Grafton, and our two dogs, Nancy Reagan and Tanner the Mayor. 
 
 --- 
+<aside>
 <a class="mastodon-feed"
    href="https://sciences.social/@csmarcum"
    data-toot-limit="4"
    >follow me into the Fediverse</a>
-
+</aside>
 <script type="module" src="https://esm.sh/emfed"></script>
