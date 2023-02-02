@@ -19,6 +19,6 @@ Outside of my career, I am an [avid photographer](photography) and nature enthus
 <a class="mastodon-feed"
    href="https://sciences.social/@csmarcum"
    data-toot-limit="4"
-   >follow me into the Fediverse</a>
+   >I toot.</a>
 </aside>
 <script type="module" src="https://esm.sh/emfed"></script>
