@@ -2,6 +2,7 @@
 I currently serve as the Assistant Director for Open Science and Data Policy at the White House Office of Science and Technology Policy where I am committed to advancing the Biden-Harris Administration priorities on restoring trust in government through scientific integrity and evidence-based policy making and to delivering a more equitably accessible return on the American public's investments in Federal research and development through open science. 
 
 My ORCID ID is: [0000-0002-0899-6143](https://orcid.org/0000-0002-0899-6143).
+My LinkedIn is: [christopher-steven-marcum-15b88249](https://www.linkedin.com/in/christopher-steven-marcum-15b88249/)
 
 ## Background
 I hold an master's degree in Demographic Analysis (2007) and a doctorate in Sociology (2011) from the University of California, Irvine. A mathematical sociologist by training, I served as a research associate in the Networks, Computation, and Social Dynamics Lab at CALIT2 while completing my doctoral research, which focused on how [aging and health shapes changes in daily social contact](https://osf.io/6bjuw/). I completed a postdoctoral fellowship in economics and statistics at the RAND Corporation where I developed mixed [mathematical models of influenza vaccination decision behavior](https://link.springer.com/chapter/10.1007/978-1-4614-5474-8_13) using real-world data. 
