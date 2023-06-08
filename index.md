@@ -1,5 +1,5 @@
 ## Professional role
-I currently serve as the Assistant Director for Open Science and Data Policy at the White House Office of Science and Technology Policy where I am committed to advancing the Biden-Harris Administration priorities on restoring trust in government through scientific integrity and evidence-based policy making and to delivering a more equitably accessible return on the American public's investments in Federal research and development through open science. 
+My current role is Senior Statistician and Senior Science Policy Analyst in the White House Office of Managemetn and Budget, Office of the Chief Statistician of the United States.  Previously, I served as the Assistant Director for Open Science and Data Policy at the White House Office of Science and Technology Policy. In that capacity, I advanced the Biden-Harris Administration priorities on restoring trust in government through scientific integrity and evidence-based policy making and delivering a more equitably accessible return on the American public's investments in Federal research and development through open science and public access. 
 
 My ORCID ID is: [0000-0002-0899-6143](https://orcid.org/0000-0002-0899-6143).
 My LinkedIn is: [christopher-steven-marcum-15b88249](https://www.linkedin.com/in/christopher-steven-marcum-15b88249/)
