@@ -13,7 +13,7 @@ I joined the [Office of Data Science and Emerging Technologies](https://www.niai
 
 In May of 2021, I was appointed to President Biden's [Scientific Integrity Fast Track Action Committee](https://www.whitehouse.gov/ostp/news-updates/2021/06/25/the-biden-administrations-scientific-integrity-task-force-seeks-ideas-from-the-american-people/) to represent the National Institutes of Health. This work is a whole-of-government effort to report on good practices in, and opportunities for, scientific integrity within US Federal government scientific workforce. The White House Office of Science and Technology Policy is spearheading this effort per the Presidential Memorandum on [Restoring Trust in Government Through Scientific Integrity and Evidence-Based Policymaking](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/memorandum-on-restoring-trust-in-government-through-scientific-integrity-and-evidence-based-policymaking/). Shortly after the [report was published](https://www.whitehouse.gov/ostp/news-updates/2022/01/11/white-house-office-of-science-technology-policy-releases-scientific-integrity-task-force-report/), I joined OSTP to help lead this important work.
 
-Outside of my career, I am an [avid photographer](photography) and nature enthusiast. I enjoy spending time adventuring outdoors with my kiddo, Grafton, and our two dogs, Nancy Reagan and Tanner the Mayor. 
+Outside of my career, I am an [avid photographer](photography) and nature enthusiast. I enjoy spending time adventuring outdoors with my kiddo, Grafton, and our dog Tanner the Mayor. 
 
 --- 
 ---
