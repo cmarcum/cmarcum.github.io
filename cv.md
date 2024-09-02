@@ -6,16 +6,33 @@
 
 ## Work Experience
 
+# Christopher Marcum
+
+**Contact Information**
+
+* **Address:** 27 Hibiscus Ct, Gaithersburg, Maryland 20878, United States
+* **Mobile:** 949-502-1881
+* **Email:** christopher.steven.marcum@gmail.com
+
+**Availability**
+
+* **Job Type:** Permanent, Multiple Appointment Types, Telework
+* **Work Schedule:** Full-time
+* **Desired Locations:** Washington, D.C.; Bethesda, MD; Los Angeles, CA; Tucson, AZ; Flagstaff, AZ; San Luis Obispo, CA; San Francisco, CA; San Diego, CA; Baltimore, MD; Seattle, WA
+
+## Work Experience
+
 ### Senior Statistician and Senior Scientist
 
-* **Organization:** White House Office of Management and Budget (Federal)
-* **Location:** Washington, D.C.
-* **Dates:** January 2023 - Present
-* **Salary:** $186,600.00 USD Per Year
-* **Hours per week:** 40
-* **Series:** 1530 Statistics
-* **Pay Plan:** GS - General Schedule (Ch. 51, 5 U.S.C.)
-* **Grade:** 15-4
+| Organization | White House Office of Management and Budget (Federal) |
+|---|---|
+| Location | Washington, D.C. |
+| Dates | January 2023 - Present |
+| Salary | $186,600.00 USD Per Year |
+| Hours per week | 40 |
+| Series | 1530 Statistics |
+| Pay Plan | GS - General Schedule (Ch. 51, 5 U.S.C.) |
+| Grade | 15-4 |
 
 **Duties, Accomplishments, and Related Skills:**
 
@@ -25,12 +42,13 @@
 
 ### Assistant Director for Open Science and Data Policy
 
-* **Organization:** White House Office of Science and Technology Policy (Federal)
-* **Location:** Washington, D.C.
-* **Dates:** January 2022 - April 2023
-* **Salary:** $155,555.00 USD Per Year
-* **Hours per week:** 60
-* **Pay Plan:** AD - Administratively Determined
+| Organization | White House Office of Science and Technology Policy (Federal) |
+|---|---|
+| Location | Washington, D.C. |
+| Dates | January 2022 - April 2023 |
+| Salary | $155,555.00 USD Per Year |
+| Hours per week | 60 |
+| Pay Plan | AD - Administratively Determined |
 
 **Duties, Accomplishments, and Related Skills:**
 
@@ -44,12 +62,13 @@
 
 ### Staff Scientist - Data Science Strategy and Genomic Program Administrator
 
-* **Organization:** National Institute of Allergy and Infectious Diseases (Federal)
-* **Location:** Bethesda, MD
-* **Dates:** June 2020 - December 2021
-* **Salary:** $146,000.00 USD Per Year
-* **Hours per week:** 40
-* **Pay Plan:** AD - Administratively Determined
+| Organization | National Institute of Allergy and Infectious Diseases (Federal) |
+|---|---|
+| Location | Bethesda, MD |
+| Dates | June 2020 - December 2021 |
+| Salary | $146,000.00 USD Per Year |
+| Hours per week | 40 |
+| Pay Plan | AD - Administratively Determined |
 
 **Duties, Accomplishments, and Related Skills:**
 
@@ -66,14 +85,15 @@
 
 ### Staff Scientist - Methodologist
 
-* **Organization:** National Human Genome Research Institute (Federal)
-* **Location:** Bethesda, MD
-* **Dates:** January 2013 - January 2023
-* **Salary:** $155,555.00 USD Per Year
-* **Hours per week:** 40
-* **Series:** 1529 Mathematical Statistics
-* **Pay Plan:** AD - Administratively Determined
-* **Grade:** N/A
+| Organization | National Human Genome Research Institute (Federal) |
+|---|---|
+| Location | Bethesda, MD |
+| Dates | January 2013 - January 2023 |
+| Salary | $155,555.00 USD Per Year |
+| Hours per week | 40 |
+| Series | 1529 Mathematical Statistics |
+| Pay Plan | AD - Administratively Determined |
+| Grade | N/A |
 
 **Duties, Accomplishments, and Related Skills:**
 
@@ -93,11 +113,12 @@
 
 ### Postdoctoral Research Fellow
 
-* **Organization:** RAND Corporation
-* **Location:** Santa Monica, CA
-* **Dates:** November 2011 - December 2012
-* **Salary:** $48,500.00 USD Per Year
-* **Hours per week:** 40
+| Organization | RAND Corporation |
+|---|---|
+| Location | Santa Monica, CA |
+| Dates | November 2011 - December 2012 |
+| Salary | $48,500.00 USD Per Year |
+| Hours per week | 40 |
 
 **Duties, Accomplishments, and Related Skills:**
 
@@ -111,10 +132,11 @@
 
 ### Graduate Research Associate
 
-* **Organization:** Networks, Computation, and Social Dynamics Lab
-* **Location:** Irvine, CA
-* **Dates:** August 2007 - November 2011
-* **Hours per week:** 40
+| Organization | Networks, Computation, and Social Dynamics Lab |
+|---|---|
+| Location | Irvine, CA |
+| Dates | August 2007 - November 2011 |
+| Hours per week | 40 |
 
 **Duties, Accomplishments, and Related Skills:**
 
@@ -127,11 +149,12 @@
 
 ### Adjunct Graduate Seminar Lecturer
 
-* **Organization:** University of Southern California
-* **Location:** Los Angeles, CA
-* **Dates:** January 2009 - December 2010
-* **Salary:** $1,000.00 USD Per Month
-* **Hours per week:** 20
+| Organization | University of Southern California |
+|---|---|
+| Location | Los Angeles, CA |
+| Dates | January 2009 - December 2010 |
+| Salary | $1,000.00 USD Per Month |
+| Hours per week | 20 |
 
 **Duties, Accomplishments, and Related Skills:**
 
