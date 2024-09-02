@@ -17,6 +17,7 @@
     *   Consult on federal agency survey designs and statistical models.
     *   Promote the use of data science and emerging technologies in government.
     *   Lead interagency working groups related to information policy.
+    *   Recruiting, hiring, and managing fellowship programs in the office.
 *   **Assistant Director for Open Science and Data Policy**, White House Office of Science and Technology Policy (January 2022 - April 2023)
     *   Led scientific integrity policy and practice development for the whole-of-government, including briefing Congress and stakeholders.
     *   Developed open science and open data policy priorities for the Nation, resulting in a strategy for Federal open science and data infrastructure.
