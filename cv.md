@@ -10,12 +10,13 @@
 ## Experience
 
 *   **Senior Statistician and Senior Scientist**, White House Office of Management and Budget (January 2023 - Present)
-    *   Provide policy and technical oversight of federal statistical programs.
-    *   Lead development of government-wide best practices for data collection and analysis.
-    *   Coordinate U.S. participation in international statistical activities.
+    *   Provide policy and technical oversight of federal statistical and science programs.
+    *   Lead development of government-wide strategies for information quality act, evidence act, and paperwork reduction act compliance.
+    *   Contribute to U.S. participation in international statistical and science policy activities.
     *   Evaluate policy implications for the federal statistical system.
-    *   Consult on complex survey designs and statistical models.
+    *   Consult on federal agency survey designs and statistical models.
     *   Promote the use of data science and emerging technologies in government.
+    *   Lead interagency working groups related to information policy.
 *   **Assistant Director for Open Science and Data Policy**, White House Office of Science and Technology Policy (January 2022 - April 2023)
     *   Led scientific integrity policy and practice development for the whole-of-government, including briefing Congress and stakeholders.
     *   Developed open science and open data policy priorities for the Nation, resulting in a strategy for Federal open science and data infrastructure.
