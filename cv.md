@@ -1,184 +1,87 @@
-# Christopher Steven Marcum
-
-**Contact Information**
-* **Email:** christopher.steven.marcum@gmail.com
-* **ORCID:** https://orcid.org/0000-0002-0899-6143 
-
-## Work Experience
-
 # Christopher Marcum
 
-**Contact Information**
+## Contact Information
 
-* **Address:** 27 Hibiscus Ct, Gaithersburg, Maryland 20878, United States
-* **Mobile:** 949-502-1881
-* **Email:** christopher.steven.marcum@gmail.com
+*   **Email:** christopher.steven.marcum@gmail.com
+*   **Website:** [www.chrismarcum.com](http://www.chrismarcum.com)
+*   **ORCID ID:** [https://orcid.org/0000-0002-0899-6143](https://orcid.org/0000-0002-0899-6143)
+*   **Keywords:** aging and the life course, data science, health, network science, research methods, open science, science policy, gerontology, social network analysis, public access, statistics, quantitative methods, sociology
 
-**Availability**
+## Experience
 
-* **Job Type:** Permanent, Multiple Appointment Types, Telework
-* **Work Schedule:** Full-time
-* **Desired Locations:** Washington, D.C.; Bethesda, MD; Los Angeles, CA; Tucson, AZ; Flagstaff, AZ; San Luis Obispo, CA; San Francisco, CA; San Diego, CA; Baltimore, MD; Seattle, WA
-
-## Work Experience
-
-### Senior Statistician and Senior Scientist
-
-| Organization | White House Office of Management and Budget (Federal) |
-|---|---|
-| Location | Washington, D.C. |
-| Dates | January 2023 - Present |
-| Salary | $186,600.00 USD Per Year |
-| Hours per week | 40 |
-| Series | 1530 Statistics |
-| Pay Plan | GS - General Schedule (Ch. 51, 5 U.S.C.) |
-| Grade | 15-4 |
-
-**Duties, Accomplishments, and Related Skills:**
-
-* Currently acting in a dual policy capacity between teams managing the federal statistical system and the federal science agencies in the Office of the Chief Statistician of the United States.
-* Specific duties include policy and technical oversight, interagency coordination, development of regulations and standards, international statistical activities, evaluation of policy implications, assessment of surveys and program evaluations, consultation on complex survey designs and statistical models, and guidance on leveraging new data sources.
-* Accomplishments include contributions to the President's budget, co-chairing an interagency working group on cybersecurity, coordinating strategic planning for the Federal Statistical Research Data Center program, advising on AI in the regulatory process, and establishing a plan for expanding equitable access to controlled data.
-
-### Assistant Director for Open Science and Data Policy
-
-| Organization | White House Office of Science and Technology Policy (Federal) |
-|---|---|
-| Location | Washington, D.C. |
-| Dates | January 2022 - April 2023 |
-| Salary | $155,555.00 USD Per Year |
-| Hours per week | 60 |
-| Pay Plan | AD - Administratively Determined |
-
-**Duties, Accomplishments, and Related Skills:**
-
-* Led scientific integrity policy development, co-chaired an interagency working group, and briefed constituents on policies.
-* Developed open science and open data policy priorities, including improving public access, reducing information blocking, expanding representation in government data science, and improving interoperability.
-* Provided customer service and engaged with stakeholders.
-* Represented OSTP on interagency and international policy bodies.
-* Mentored policy fellows.
-* Accomplishments include project management of key initiatives, including the Federal Framework for Scientific Integrity and the 2022 OSTP Public Access Memo, and leading the White House team towards designating 2023 as a Year of Open Science.
-* Awards include letters of recognition from the White House and a nomination for a Service to America Foundation Award.
-
-### Staff Scientist - Data Science Strategy and Genomic Program Administrator
-
-| Organization | National Institute of Allergy and Infectious Diseases (Federal) |
-|---|---|
-| Location | Bethesda, MD |
-| Dates | June 2020 - December 2021 |
-| Salary | $146,000.00 USD Per Year |
-| Hours per week | 40 |
-| Pay Plan | AD - Administratively Determined |
-
-**Duties, Accomplishments, and Related Skills:**
-
-* Oversee data sharing and management policy for NIAID.
-* Serve as Genomic Program Administrator for NIAID.
-* Chair of the Data Access Committee for AccessClinicalData@NIAID and dbGaP data access requests.
-* Federal lead on a workshop series for informing data science strategy.
-* Develop and sponsor initiatives for harnessing data science within NIAID.
-* Interview, hire, mentor, and supervise Emerging Leaders in Data Science Fellows and Civic Digital Fellowship program applicants.
-* Serve as the office representative on the NIAID Workplace Civility Taskforce.
-* Serve as a liaison between NIAID and the NIH Office of the Director, Office of Science Policy.
-* Appointed to President Biden's Fast Track Action Committee on Scientific Integrity.
-* Awards include a Special Acts or Service Award and the 40 Hours Time Off Award.
-
-### Staff Scientist - Methodologist
-
-| Organization | National Human Genome Research Institute (Federal) |
-|---|---|
-| Location | Bethesda, MD |
-| Dates | January 2013 - January 2023 |
-| Salary | $155,555.00 USD Per Year |
-| Hours per week | 40 |
-| Series | 1529 Mathematical Statistics |
-| Pay Plan | AD - Administratively Determined |
-| Grade | N/A |
-
-**Duties, Accomplishments, and Related Skills:**
-
-* Develop methodology for complex social network data analysis and engage in data science initiatives.
-* Conduct research on social networks and health, including data collection, analysis, and publication.
-* Present research findings at conferences.
-* Select, interview, hire, terminate, and supervise lab support staff and research fellows.
-* Oversee lab management, including acquisition and maintenance of resources.
-* Manage federal contracts for research samples, lab services, software, and surveys.
-* Design, implement, review, and ensure quality control of national surveys.
-* Design, review, and implement human subjects research protocols.
-* Teach a graduate-level seminar series and supervise training on statistics and social network analysis.
-* Ensure excellence in diversity and champion workplace civility.
-* Serve on the Scientific Review Committee and the Data Access Committee of the NHGRI.
-* Serve on the postdoctoral fellowship committee and organize research colloquia.
-* Honors and awards include the NHGRI GREAT Mentorship Award, OBSSR Matilda White Riley Early Stage Investigator Honor, NHGRI GREAT Outstanding Service Award, and others.
-
-### Postdoctoral Research Fellow
-
-| Organization | RAND Corporation |
-|---|---|
-| Location | Santa Monica, CA |
-| Dates | November 2011 - December 2012 |
-| Salary | $48,500.00 USD Per Year |
-| Hours per week | 40 |
-
-**Duties, Accomplishments, and Related Skills:**
-
-* Conduct scientific research on social networks and infectious disease transmission.
-* Support the development of research protocols on influenza vaccination behavior.
-* Conduct research on vaccination behavior and decision making.
-* Analyze, summarize, and write research articles for publication.
-* Present research findings at meetings.
-* Lecture at seminars on statistical methods of network analysis.
-* Award: Best publication by a student, Section on Aging and the Life Course, American Sociological Association
-
-### Graduate Research Associate
-
-| Organization | Networks, Computation, and Social Dynamics Lab |
-|---|---|
-| Location | Irvine, CA |
-| Dates | August 2007 - November 2011 |
-| Hours per week | 40 |
-
-**Duties, Accomplishments, and Related Skills:**
-
-* Develop methods and publish software for social network data analysis.
-* Produce original research in statistical methodology, disasters, and diffusion processes.
-* Manage lab computational and data storage infrastructure.
-* Mentor junior lab members and support peers.
-* Present research findings at scientific and academic meetings.
-* Awards and honors include the Public Impact Dissertation Award, University of California Order of Merit Award, and others.
-
-### Adjunct Graduate Seminar Lecturer
-
-| Organization | University of Southern California |
-|---|---|
-| Location | Los Angeles, CA |
-| Dates | January 2009 - December 2010 |
-| Salary | $1,000.00 USD Per Month |
-| Hours per week | 20 |
-
-**Duties, Accomplishments, and Related Skills:**
-
-* Taught graduate seminars on statistics, demographic, and social analysis.
+*   **Senior Statistician and Senior Scientist**, White House Office of Management and Budget (January 2023 - Present)
+    *   Provide policy and technical oversight of federal statistical programs.
+    *   Lead development of government-wide best practices for data collection and analysis.
+    *   Coordinate U.S. participation in international statistical activities.
+    *   Evaluate policy implications for the federal statistical system.
+    *   Consult on complex survey designs and statistical models.
+    *   Promote the use of data science and emerging technologies in government.
+*   **Assistant Director for Open Science and Data Policy**, White House Office of Science and Technology Policy (January 2022 - April 2023)
+    *   Led scientific integrity policy and practice development for the whole-of-government, including briefing Congress and stakeholders.
+    *   Developed open science and open data policy priorities for the Nation, resulting in a strategy for Federal open science and data infrastructure.
+    *   Provided excellent customer service by engaging with public and private sector stakeholders.
+    *   Represented OSTP on interagency and international policy bodies.
+    *   Selected and mentored policy fellows.
+*   **Staff Scientist - Data Science Strategy and Genomic Program Administrator**, National Institute of Allergy and Infectious Diseases (June 2020 - December 2021)
+    *   Oversaw data sharing and management policy for NIAID, ensuring compliance with NIH policies.
+    *   Served as Genomic Program Administrator, overseeing compliance with the NIH's Genomic Data Sharing Policy
+    *   Chaired the Data Access Committee for AccessClinicalData@NIAID and dbGaP data access requests
+    *   Led a workshop series for informing data science strategy.
+    *   Developed and sponsored initiatives for harnessing data science within NIAID.
+    *   Mentored and supervised fellows in data science.
+    *   Served on the NIAID Workplace Civility Taskforce.
+    *   Represented NIAID on trans-NIH committees.
+    *   Appointed to President Biden's Fast Track Action Committee on Scientific Integrity.
+*   **Staff Scientist - Methodologist**, National Human Genome Research Institute (January 2013 - January 2023)
+    *   Developed methodology for social network data analysis.
+    *   Conducted research on social networks and health.
+    *   Supervised and mentored research fellows.
+    *   Oversaw lab management and federal contracts.
+    *   Designed and implemented national surveys and research protocols.
+    *   Served on the Scientific Review Committee and Data Access Committee.
+*   **Postdoctoral Research Fellow**, RAND Corporation (November 2011 - December 2012)
+    *   Conducted scientific research on social networks and infectious disease transmission
+    *   Supported the development of research protocols on influenza vaccination behavior
+    *   Conducted research on vaccination behavior and decision making
+    *   Analyzed, summarized, and wrote research articles for peer-reviewed publication
+    *   Presented research findings at workshops and conferences
+    *   Lectured at seminars for the RAND Pardee Graduate School on statistical methods of network analysis
 
 ## Education
 
-* **Doctorate degree:** Sociology, University of California - Irvine (November 2011), Summa Cum Laude
-* **Master's degree:** Demographic and Social Analysis, University of California - Irvine (May 2007), Summa Cum Laude
-* **Bachelor's degree:** Sociology, University of Arizona (June 2004), Magna Cum Laude
+*   **Ph.D. in Sociology**, University of California, Irvine (2011)
+*   **M.A. in Demographic and Social Analysis**, University of California, Irvine (2007)
+*   **B.A. in Sociology**, University of Arizona (2004)
 
-## Job-Related Training
+## Awards and Honors
 
-1. NASA TOPS Open Science Curriculum, 2023
-2. OMB MAX Federal Sponsorship and Administrator Training, 2022
-3. Google Cloud Platform Training, 2020
-4. National Institutes of Health, Mid-Level Leadership Training, 2016
-5. Bioethics of Research on Aging, 2014
+*   Fellow of the Gerontological Society of America
+*   Special Acts or Service Award from the National Institute of Allergy and Infectious Diseases
+*   NIH/OBSSR Matilda White Riley Early Stage Investigator Honor (2016)
+*   NHGRI GREAT Award for extraordinary efforts and resilience in support of SBRB's research program during a critical time (2020)
+*   NHGRI GREAT Award for Mentorship (2016)
+*   NIH Intramural Research Loan Repayment Award (2014-2019)
+*   UC-Irvine Order of Merit for Outstanding Service to Graduate Student Health and Well-Being (2010)
+*   Best publication by a student, Section on Aging and the Life Course, American Sociological Association
+*   Outstanding Publication Award (contributor): Handbook on the Sociology of Aging. Springer-Verlag. 2011. (Section on Aging and Life Course), American Sociological Association, Washington, DC, US (August 2013)
+*   Graduate Student Paper Award, Section on Aging and Life Course, American Sociological Association, Washington, DC, US (August 2012)
+*   Public Impact Dissertation Award Honorable Mention, University of California, Irvine, Irvine, CA, US (2011)
 
-## Affiliations
+## Extracurricular Training
 
-* National Academies of Science: Roundtable on Aligning Incentives for Open Scholarship - Ex Officio Member, Executive Office of the President
-* Federal Statistical Research Data Centers - Senior Advisor, Ex Officio rep of the Office of the Chief Statistician of the United States
-* National Science and Technology Council Subcommittee on Open Science - Senior Advisor and Co-Chair
-* National Science and Technology Council Subcommittee on Scientific Integrity - Senior Advisor and Co-Chair
-* National Science and Technology Council Scientific Integrity Framework Interagency Working Group - Co-Chair
-* President Biden's Fast-Track Action Committee on Scientific Integrity
+*   NASA TOPS Open Science Curriculum (2023)
+*   OMB MAX Federal Sponsorship and Administrator Training (2022)
+*   Google Cloud Platform Training (2020)
+*   National Institutes of Health, Mid-Level Leadership Training (2016)
+*   Bioethics of Research on Aging (2014)
+
+## Selected Publications
+
+*   Drinking from the firehose? Write more and publish less. *preprint*. [DOI: 10.54900/r8zwg-62003](https://doi.org/10.54900/r8zwg-62003)
+*   NNI nanoinformatics conference 2023: Movement toward a common infrastructure for federal nanoEHS data. *preprint*. [DOI: 10.5281/ZENODO.11068967](https://doi.org/10.5281/ZENODO.11068967)
+*   A plan to develop open science’s green shoots into a thriving garden. *Issues in Science and Technology*. [DOI: 10.58875/MZSW4704](https://doi.org/10.58875/MZSW4704)
+*   Sowing the seeds of global open science coordination. *CERN*. [DOI: 10.5281/ZENODO.10059154](https://doi.org/10.5281/ZENODO.10059154)
+*   Advancing the culture of peer review with preprints. *Preprint*. [DOI: 10.31219/osf.io/cht8p](https://doi.org/10.31219/osf.io/cht8p)
+*   Short report: Vaccine attitudes in the age of COVID-19 for a population of children with mitochondrial disease. *Research in Developmental Disabilities*, *133*, 104346. [DOI: 10.1016/j.ridd.2022.104346](https://doi.org/10.1016/j.ridd.2022.104346)
+*   Exponential-family random graph models for multi-layer networks. *Psychometrika*, *85*, 630–569. [DOI: 10.1007/s11336-020-09720-7](https://doi.org/10.1007/s11336-020-09720-7)
+---
