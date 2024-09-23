@@ -1,6 +1,6 @@
 # Christopher Steven Marcum
 
-**Mathematical Sociologist | Gerontologist | Science Policy Wonk |**
+**Mathematical Sociologist | Gerontologist | Science Policy Wonk **
 
 **Contact**
 
