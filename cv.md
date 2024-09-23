@@ -1,89 +1,109 @@
-# Christopher Marcum
+# Christopher Steven Marcum
 
-## Contact Information
+**Mathematical Sociologist | Gerontologist | Science Policy Wonk |**
+
+**Contact**
+
+*   **Website:** [www.chrismarcum.com](http://www.chrismarcum.com)
 
 *   **Email:** christopher.steven.marcum@gmail.com
-*   **Website:** [www.chrismarcum.com](http://www.chrismarcum.com)
-*   **ORCID ID:** [https://orcid.org/0000-0002-0899-6143](https://orcid.org/0000-0002-0899-6143)
-*   **Keywords:** aging and the life course, data science, health, network science, research methods, open science, science policy, gerontology, social network analysis, public access, statistics, quantitative methods, sociology
 
-## Experience
+*   **Social:** [Mastodon](https://sciences.social/@csmarcum) | [GitHub](https://github.com/cmarcum) | [LinkedIn](https://www.linkedin.com/in/christopher-steven-marcum-15b88249/)
 
-*   **Senior Statistician and Senior Scientist**, White House Office of Management and Budget (January 2023 - Present)
-    *   Provide policy and technical oversight of federal statistical and science programs.
-    *   Lead development of government-wide strategies for information quality act, evidence act, and paperwork reduction act compliance.
-    *   Contribute to U.S. participation in international statistical and science policy activities.
-    *   Evaluate policy implications for the federal statistical system.
-    *   Consult on federal agency survey designs and statistical models.
-    *   Promote the use of data science and emerging technologies in government.
-    *   Lead interagency working groups related to information policy.
-    *   Recruiting, hiring, and managing fellowship programs in the office.
-*   **Assistant Director for Open Science and Data Policy**, White House Office of Science and Technology Policy (January 2022 - April 2023)
-    *   Led scientific integrity policy and practice development for the whole-of-government, including briefing Congress and stakeholders.
-    *   Developed open science and open data policy priorities for the Nation, resulting in a strategy for Federal open science and data infrastructure.
-    *   Provided excellent customer service by engaging with public and private sector stakeholders.
-    *   Represented OSTP on interagency and international policy bodies.
-    *   Selected and mentored policy fellows.
-*   **Staff Scientist - Data Science Strategy and Genomic Program Administrator**, National Institute of Allergy and Infectious Diseases (June 2020 - December 2021)
-    *   Oversaw data sharing and management policy for NIAID, ensuring compliance with NIH policies.
-    *   Served as Genomic Program Administrator, overseeing compliance with the NIH's Genomic Data Sharing Policy
-    *   Chaired the Data Access Committee for AccessClinicalData@NIAID and dbGaP data access requests
-    *   Led a workshop series for informing data science strategy.
-    *   Developed and sponsored initiatives for harnessing data science within NIAID.
-    *   Mentored and supervised fellows in data science.
-    *   Served on the NIAID Workplace Civility Taskforce.
-    *   Represented NIAID on trans-NIH committees.
-    *   Appointed to President Biden's Fast Track Action Committee on Scientific Integrity.
-*   **Staff Scientist - Methodologist**, National Human Genome Research Institute (January 2013 - January 2023)
-    *   Developed methodology for social network data analysis.
-    *   Conducted research on social networks and health.
-    *   Supervised and mentored research fellows.
-    *   Oversaw lab management and federal contracts.
-    *   Designed and implemented national surveys and research protocols.
-    *   Served on the Scientific Review Committee and Data Access Committee.
-*   **Postdoctoral Research Fellow**, RAND Corporation (November 2011 - December 2012)
-    *   Conducted scientific research on social networks and infectious disease transmission
-    *   Supported the development of research protocols on influenza vaccination behavior
-    *   Conducted research on vaccination behavior and decision making
-    *   Analyzed, summarized, and wrote research articles for peer-reviewed publication
-    *   Presented research findings at workshops and conferences
-    *   Lectured at seminars for the RAND Pardee Graduate School on statistical methods of network analysis
 
-## Education
+**Summary**
 
-*   **Ph.D. in Sociology**, University of California, Irvine (2011)
-*   **M.A. in Demographic and Social Analysis**, University of California, Irvine (2007)
-*   **B.A. in Sociology**, University of Arizona (2004)
+Experienced professional bridging mathematical sociology, gerontology, and policy analysis. Committed to open science and data-driven decision-making.
 
-## Awards and Honors
+**Experience**
 
-*   Fellow of the Gerontological Society of America
-*   Special Acts or Service Award from the National Institute of Allergy and Infectious Diseases
-*   NIH/OBSSR Matilda White Riley Early Stage Investigator Honor (2016)
-*   NHGRI GREAT Award for extraordinary efforts and resilience in support of SBRB's research program during a critical time (2020)
-*   NHGRI GREAT Award for Mentorship (2016)
-*   NIH Intramural Research Loan Repayment Award (2014-2019)
-*   UC-Irvine Order of Merit for Outstanding Service to Graduate Student Health and Well-Being (2010)
-*   Best publication by a student, Section on Aging and the Life Course, American Sociological Association
-*   Outstanding Publication Award (contributor): Handbook on the Sociology of Aging. Springer-Verlag. 2011. (Section on Aging and Life Course), American Sociological Association, Washington, DC, US (August 2013)
-*   Graduate Student Paper Award, Section on Aging and Life Course, American Sociological Association, Washington, DC, US (August 2012)
-*   Public Impact Dissertation Award Honorable Mention, University of California, Irvine, Irvine, CA, US (2011)
+*   **Senior Statistician & Scientist**, Office of Management and Budget (2023 - Present)
 
-## Extracurricular Training
+    *   Serves in the Office of the Chief Statistician of the United States.
 
-*   NASA TOPS Open Science Curriculum (2023)
-*   OMB MAX Federal Sponsorship and Administrator Training (2022)
-*   Google Cloud Platform Training (2020)
-*   National Institutes of Health, Mid-Level Leadership Training (2016)
-*   Bioethics of Research on Aging (2014)
+*   **Assistant Director for Open Science & Data Policy**, Office of Science and Technology Policy (2022 - 2023)
 
-## Selected Publications
+*   **Staff Scientist**, National Institute of Allergy and Infectious Diseases (2020 - 2021)
 
-*   Drinking from the firehose? Write more and publish less. *preprint*. [DOI: 10.54900/r8zwg-62003](https://doi.org/10.54900/r8zwg-62003)
-*   NNI nanoinformatics conference 2023: Movement toward a common infrastructure for federal nanoEHS data. *preprint*. [DOI: 10.5281/ZENODO.11068967](https://doi.org/10.5281/ZENODO.11068967)
-*   A plan to develop open science’s green shoots into a thriving garden. *Issues in Science and Technology*. [DOI: 10.58875/MZSW4704](https://doi.org/10.58875/MZSW4704)
-*   Sowing the seeds of global open science coordination. *CERN*. [DOI: 10.5281/ZENODO.10059154](https://doi.org/10.5281/ZENODO.10059154)
-*   Advancing the culture of peer review with preprints. *Preprint*. [DOI: 10.31219/osf.io/cht8p](https://doi.org/10.31219/osf.io/cht8p)
-*   Short report: Vaccine attitudes in the age of COVID-19 for a population of children with mitochondrial disease. *Research in Developmental Disabilities*, *133*, 104346. [DOI: 10.1016/j.ridd.2022.104346](https://doi.org/10.1016/j.ridd.2022.104346)
-*   Exponential-family random graph models for multi-layer networks. *Psychometrika*, *85*, 630–569. [DOI: 10.1007/s11336-020-09720-7](https://doi.org/10.1007/s11336-020-09720-7)
----
+    *   Focused on data science strategy and served as Genomic Program Administrator.
+
+
+**Selected Distinctions & Service (2020 - Present)**
+
+*   **Chair**, Federal Statistical Research Data Centers Executive Committee (2024 - Present)
+
+*   **Special Achievement & Time-Off Award**, The White House (2024)
+
+*   **Ex Officio Member**, Round Table on Aligning Incentives for Open Scholarship (2023 - Present)
+
+*   **On the Spot Award**, The White House (2023)
+
+*   **Special Acts or Service Award**, National Institute of Allergy and Infectious Diseases (2022)
+
+*   **Fellow**, Gerontological Society of America (2022)
+
+*   **NHGRI GREAT Award**, for extraordinary efforts and resilience (2020)
+
+*   **Member**, Authors Alliance (2024 - Present)
+
+*   **Member**, Research Data Alliance (2023 - Present)
+
+*   **Member**, American Association For The Advancement of Science (2021 - Present)
+
+**Selected Publications (2020 - Present)**
+
+*   *Peer Review of “Artificial Intelligence in Healthcare: 2023 Year in Review (Preprint)”*, JMIRx Med (2024)
+
+*   *Drinking from the Firehose? Write More and Publish Less* (preprint, 2024)
+
+*   *NNI Nanoinformatics Conference 2023: Movement Toward a Common Infrastructure for Federal nanoEHS Data* (preprint, 2024)
+
+*   *2023: A Year of Open Science in Review* (preprint, 2024)
+
+*   *A Plan to Develop Open Science’s Green Shoots into a Thriving Garden*, Issues in Science and Technology (2024)
+
+*   *Sowing the Seeds of Global Open Science Coordination*, CERN (2023)
+
+*   *Advancing the culture of peer review with preprints* (preprint, 2023)
+
+*   *A Framework for Federal Scientific Integrity Policy and Practice*, National Science and Technology Council (2023)
+
+*   *Short report: Vaccine attitudes in the age of COVID-19 for a population of children with mitochondrial disease*, Research in Developmental Disabilities (2022)
+
+*   *Comprehensive profiling of the human viral exposome in households containing an at‐risk child with mitochondrial disease during the 2020–2021 COVID‐19 pandemic*, Clinical and Translational Medicine (2022)
+
+*   *Public Access to Advance Equity*, Issues in Science and Technology (2022)
+
+*   *Breakthroughs for All: Delivering Equitable Access to America’s Research*, The White House (2022)
+
+*   *[https://www.whitehouse.gov/ostp/newsupdates/2022/05/26/new-guidance-to-ensure-federallyfunded-research-data-equitably-benefits-all-of-america/](https://www.whitehouse.gov/ostp/newsupdates/2022/05/26/new-guidance-to-ensure-federallyfunded-research-data-equitably-benefits-all-of-america/)*, The White House (2022)
+
+*   *Desirable Characteristics of Data Repositories for Federally Funded Research*, National Science and Technology Council (2022)
+
+*   *Interpersonal Correlates of Dementia Caregivers’ Emotional Support Networks: Considering Family History*, Research on Aging (2022)
+
+*   *Undiagnosed COVID-19 in households with a child with mitochondrial disease* (preprint, 2022)
+
+*   *Join the Effort to Develop a Scientific Integrity Framework*, The White House (2022)
+
+*   *Risk mitigation behaviors to prevent infection in the mitochondrial disease community during the COVID-19 pandemic*, Molecular Genetics and Metabolism Reports (2022)
+
+*   *Protecting the Integrity of Government Science*, National Science and Technology Council (2022)
+
+**Skills**
+
+*   Data Science
+
+*   Network Science
+
+*   Open Science
+
+*   Science Policy
+
+*   Research Methods
+
+*   Statistics
+
+*   Quantitative Methods
+
+**Keywords:** Aging, Life Course, Health, Gerontology, Social Network Analysis, Public Access
