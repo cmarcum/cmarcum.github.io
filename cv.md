@@ -44,7 +44,7 @@
 
 **Selected Scholarly Writing[^1] (2020 - Present)**
 *   *Peer review of ["Open Science at the Generative AI Turn: An Exploratory Analysis of Challenges and Opportunities"](10.5281/zenodo.11320176)* (2024)
-*   *Peer Review of ["Artificial Intelligence in Healthcare: 2023 Year in Review (Preprint)"](doi:10.2196/65151)* (2024)
+*   *Peer Review of ["Artificial Intelligence in Healthcare: 2023 Year in Review (Preprint)"](10.2196/65151)* (2024)
 *   *[Drinking from the Firehose? Write More and Publish Less](https://doi.org/10.54900/r8zwg-62003)* (2024)
 *   *[NNI Nanoinformatics Conference 2023: Movement Toward a Common Infrastructure for Federal nanoEHS Data](10.5281/zenodo.11068966)* (2024)
 *   *[2023: A Year of Open Science in Review](10.5281/zenodo.10467495.)* (2024)
