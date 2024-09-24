@@ -10,7 +10,6 @@
 
 
 **Experience**
-
 *   **Senior Statistician & Senior Scientist**, Office of Management and Budget (2023 - Present)
     *   Serves in the Office of the Chief Statistician of the United States as lead for information policy, scientific integrity, cybersecurity, artificial intelligence, and the federal statistical reserach data center program.
 *   **Assistant Director for Open Science & Data Policy**, Office of Science and Technology Policy (2022 - 2023)
@@ -21,15 +20,16 @@
     *   Maintained an extensive portfolio of basic research on social network methods, gerontology, and social determinants of health.
 
 **Education and Training**
-
 *   **PhD**, Sociology, University of California, Irvine (2011)
 *   **MA**, Demographic and Social Analysis, University of California, Irvine (2007)
 *   **BA**, Sociology, University of Arizona (2004)
 
-
-*   **Mid-Career Leadership**, The Training Center, NIH (2016)
-*   
-*   **Post Doc**, Economics and Statistics, RAND (2012)
+*   **Open Science 101**, NASA (2023)
+*   **OMB MAX Federal Sponsorship and Administrator Training**, NITRD (2022)
+*   **Google Cloud Platform Training**, NIH (2020)
+*   **Bioethics of Research on Aging**, University of California, Berkeley (2014)
+*   **Mid-Level Leadership**, The Training Center, NIH (2016)   
+*   **Postdoctoral Fellowship in Economics and Statistics**, RAND (2012)
 
 **Selected Distinctions & Service (2020 - Present)**
 *   **Chair**, Federal Statistical Research Data Centers Executive Committee (2024 - Present)
@@ -46,8 +46,7 @@
 *   **GREAT Award**, National Human Genome Research Institute (2020)
     *   Citation: For extraordinary efforts and resilience during a difficult time of transition.
 
-**Selected Scholarly Writing (2020 - Present)**
-
+**Selected Scholarly Writing[^1] (2020 - Present)**
 *   *Peer Review of “Artificial Intelligence in Healthcare: 2023 Year in Review (Preprint)”*, (2024)
 *   *Drinking from the Firehose? Write More and Publish Less* (2024)
 *   *NNI Nanoinformatics Conference 2023: Movement Toward a Common Infrastructure for Federal nanoEHS Data* (2024)
@@ -67,11 +66,4 @@
 *   *Risk mitigation behaviors to prevent infection in the mitochondrial disease community during the COVID-19 pandemic*  (2022)
 *   *Protecting the Integrity of Government Science*, National Science and Technology Council (2022)
 
-**Skills**
-
-*   Program leadership
-*   Mentorship
-*   Data Science
-*   Social Network Analysis
-*   Science and Information Policy
-*   Research Methods and Statistics
+[^1]: Aligning with [HHMI's](https://www.hhmi.org/about/policies) plan to reform tenure and promotion by valuing content over prestige, I've decided to remove journal titles from my CV. A more complete publication history can be found on my [ORCID](https://orcid.org/0000-0002-0899-6143).
