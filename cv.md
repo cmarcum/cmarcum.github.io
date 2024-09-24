@@ -26,14 +26,14 @@
     *   Citation: For collaborative leadership on the development of the Executive Order on Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence and the OMB Memorandum on Advancing Governance, Innovation, and Risk Management for Agency Use of Artificial Intelligence 
 *   **Ex Officio Member of the Executive Office of the President**, National Academies of Science, Engineering, and Medicine Round Table on Aligning Incentives for Open Scholarship (2023 - Present)
 *   **On the Spot Award**, The White House (2023)
-   *   Citation:   For development of the three-arm strategic action plan to expand equitable access to confidential data in the federal statistical research data center program. 
+    *   Citation:   For development of the three-arm strategic action plan to expand equitable access to confidential data in the federal statistical research data center program. 
 *   **Special Acts or Service Award**, National Institute of Allergy and Infectious Diseases (2022)
-   *   Citation: For establishing the Data Access Committee and leadership in the Office of Data Science and Emerging Technology during the COVID-19 pandemic. 
+    *   Citation: For establishing the Data Access Committee and leadership in the Office of Data Science and Emerging Technology during the COVID-19 pandemic. 
 *   **Commendation of Exceptional Service**, White House Office of Science and Technology Policy (2022)
-   *   Citation: For exceptional service to the American people as a member of the President's Fast Track Action Committee on Scientific Integrity.
+    *   Citation: For exceptional service to the American people as a member of the President's Fast Track Action Committee on Scientific Integrity.
 *   **Fellow**, Gerontological Society of America (2022)
 *   **GREAT Award**, National Human Genome Research Institute (2020)
-   *   Citation: For extraordinary efforts and resilience during a difficult time of transition.
+    *   Citation: For extraordinary efforts and resilience during a difficult time of transition.
 
 **Selected Publications (2020 - Present)**
 
