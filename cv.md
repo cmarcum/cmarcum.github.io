@@ -8,7 +8,7 @@
 
 **Experience**
 *   **Senior Statistician & Senior Scientist**, Office of Management and Budget (2023 - Present)
-    *   Serves in the Office of the Chief Statistician of the United States as lead for information policy, scientific integrity, cybersecurity, artificial intelligence, and the federal statistical reserach data center program.
+    *   Serves in the Office of the Chief Statistician of the United States as lead for information policy, scientific integrity, cybersecurity, artificial intelligence, and the federal statistical research data center program.
 *   **Assistant Director for Open Science & Data Policy**, Office of Science and Technology Policy (2022 - 2023)
     *   Directed public access, scientific integrity, and open science policies for the Science and Society Team.
 *   **Staff Scientist for Data Policy**, National Institute of Allergy and Infectious Diseases (2020 - 2021)
