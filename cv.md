@@ -6,7 +6,7 @@
 
 *   **Website:** [www.chrismarcum.com](http://www.chrismarcum.com)
 *   **Email:** christopher.steven.marcum@gmail.com
-*   **Social:** [Mastodon](https://sciences.social/@csmarcum) | [GitHub](https://github.com/cmarcum) | [LinkedIn](https://www.linkedin.com/in/christopher-steven-marcum-15b88249/)
+*   **Social:** [Mastodon](https://sciences.social/@csmarcum) | [GitHub](https://github.com/cmarcum) | [LinkedIn](https://www.linkedin.com/in/christopher-steven-marcum-15b88249/) | [ORCID](https://orcid.org/0000-0002-0899-6143)
 
 
 **Experience**
@@ -20,11 +20,22 @@
 *   **Staff Scientist for Methodology**, National Human Genome Research Institute (2013 - 2021)
     *   Maintained an extensive portfolio of basic research on social network methods, gerontology, and social determinants of health.
 
+**Education and Training**
+
+*   **PhD**, Sociology, University of California, Irvine (2011)
+*   **MA**, Demographic and Social Analysis, University of California, Irvine (2007)
+*   **BA**, Sociology, University of Arizona (2004)
+
+
+*   **Mid-Career Leadership**, The Training Center, NIH (2016)
+*   
+*   **Post Doc**, Economics and Statistics, RAND (2012)
+
 **Selected Distinctions & Service (2020 - Present)**
 *   **Chair**, Federal Statistical Research Data Centers Executive Committee (2024 - Present)
 *   **Special Achievement & Time-Off Award**, The White House (2024)
     *   Citation: For collaborative leadership on the development of the Executive Order on Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence and the OMB Memorandum on Advancing Governance, Innovation, and Risk Management for Agency Use of Artificial Intelligence 
-*   **Ex Officio Member of the Executive Office of the President**, National Academies of Science, Engineering, and Medicine Round Table on Aligning Incentives for Open Scholarship (2023 - Present)
+*   **Ex Officio Member for the Executive Office of the President**, National Academies of Science, Engineering, and Medicine Round Table on Aligning Incentives for Open Scholarship (2023 - Present)
 *   **On the Spot Award**, The White House (2023)
     *   Citation:   For development of the three-arm strategic action plan to expand equitable access to confidential data in the federal statistical research data center program. 
 *   **Special Acts or Service Award**, National Institute of Allergy and Infectious Diseases (2022)
@@ -35,26 +46,25 @@
 *   **GREAT Award**, National Human Genome Research Institute (2020)
     *   Citation: For extraordinary efforts and resilience during a difficult time of transition.
 
-**Selected Publications (2020 - Present)**
+**Selected Scholarly Writing (2020 - Present)**
 
-*   *Peer Review of “Artificial Intelligence in Healthcare: 2023 Year in Review (Preprint)”*, JMIRx Med (2024)
-*   *Drinking from the Firehose? Write More and Publish Less* (preprint, 2024)
-*   *NNI Nanoinformatics Conference 2023: Movement Toward a Common Infrastructure for Federal nanoEHS Data* (preprint, 2024)
-*   *2023: A Year of Open Science in Review* (preprint, 2024)
-*   *A Plan to Develop Open Science’s Green Shoots into a Thriving Garden*, Issues in Science and Technology (2024)
+*   *Peer Review of “Artificial Intelligence in Healthcare: 2023 Year in Review (Preprint)”*, (2024)
+*   *Drinking from the Firehose? Write More and Publish Less* (2024)
+*   *NNI Nanoinformatics Conference 2023: Movement Toward a Common Infrastructure for Federal nanoEHS Data* (2024)
+*   *2023: A Year of Open Science in Review* (2024)
+*   *A Plan to Develop Open Science’s Green Shoots into a Thriving Garden* (2024)
 *   *Sowing the Seeds of Global Open Science Coordination*, CERN (2023)
-*   *Advancing the culture of peer review with preprints* (preprint, 2023)
+*   *Advancing the culture of peer review with preprints* (2023)
 *   *A Framework for Federal Scientific Integrity Policy and Practice*, National Science and Technology Council (2023)
-*   *Short report: Vaccine attitudes in the age of COVID-19 for a population of children with mitochondrial disease*, Research in Developmental Disabilities (2022)
-*   *Comprehensive profiling of the human viral exposome in households containing an at‐risk child with mitochondrial disease during the 2020–2021 COVID‐19 pandemic*, Clinical and Translational Medicine (2022)
+*   *Short report: Vaccine attitudes in the age of COVID-19 for a population of children with mitochondrial disease* (2022)
+*   *Comprehensive profiling of the human viral exposome in households containing an at‐risk child with mitochondrial disease during the 2020–2021 COVID‐19 pandemic* (2022)
 *   *Public Access to Advance Equity*, Issues in Science and Technology (2022)
 *   *Breakthroughs for All: Delivering Equitable Access to America’s Research*, The White House (2022)
-*   *[https://www.whitehouse.gov/ostp/newsupdates/2022/05/26/new-guidance-to-ensure-federallyfunded-research-data-equitably-benefits-all-of-america/](https://www.whitehouse.gov/ostp/newsupdates/2022/05/26/new-guidance-to-ensure-federallyfunded-research-data-equitably-benefits-all-of-america/)*, The White House (2022)
 *   *Desirable Characteristics of Data Repositories for Federally Funded Research*, National Science and Technology Council (2022)
-*   *Interpersonal Correlates of Dementia Caregivers’ Emotional Support Networks: Considering Family History*, Research on Aging (2022)
-*   *Undiagnosed COVID-19 in households with a child with mitochondrial disease* (preprint, 2022)
+*   *Interpersonal Correlates of Dementia Caregivers’ Emotional Support Networks: Considering Family History*, (2022)
+*   *Undiagnosed COVID-19 in households with a child with mitochondrial disease* (2022)
 *   *Join the Effort to Develop a Scientific Integrity Framework*, The White House (2022)
-*   *Risk mitigation behaviors to prevent infection in the mitochondrial disease community during the COVID-19 pandemic*, Molecular Genetics and Metabolism Reports (2022)
+*   *Risk mitigation behaviors to prevent infection in the mitochondrial disease community during the COVID-19 pandemic*  (2022)
 *   *Protecting the Integrity of Government Science*, National Science and Technology Council (2022)
 
 **Skills**
