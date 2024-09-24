@@ -1,13 +1,10 @@
 # Christopher Steven Marcum
-
 **Mathematical Sociologist | Gerontologist | Science Policy Wonk **
-
+---
 **Contact**
-
 *   **Website:** [www.chrismarcum.com](http://www.chrismarcum.com)
 *   **Email:** christopher.steven.marcum@gmail.com
 *   **Social:** [Mastodon](https://sciences.social/@csmarcum) | [GitHub](https://github.com/cmarcum) | [LinkedIn](https://www.linkedin.com/in/christopher-steven-marcum-15b88249/) | [ORCID](https://orcid.org/0000-0002-0899-6143)
-
 
 **Experience**
 *   **Senior Statistician & Senior Scientist**, Office of Management and Budget (2023 - Present)
@@ -47,23 +44,23 @@
     *   Citation: For extraordinary efforts and resilience during a difficult time of transition.
 
 **Selected Scholarly Writing[^1] (2020 - Present)**
-*   *Peer Review of “Artificial Intelligence in Healthcare: 2023 Year in Review (Preprint)”*, (2024)
-*   *Drinking from the Firehose? Write More and Publish Less* (2024)
-*   *NNI Nanoinformatics Conference 2023: Movement Toward a Common Infrastructure for Federal nanoEHS Data* (2024)
-*   *2023: A Year of Open Science in Review* (2024)
-*   *A Plan to Develop Open Science’s Green Shoots into a Thriving Garden* (2024)
-*   *Sowing the Seeds of Global Open Science Coordination*, CERN (2023)
-*   *Advancing the culture of peer review with preprints* (2023)
-*   *A Framework for Federal Scientific Integrity Policy and Practice*, National Science and Technology Council (2023)
-*   *Short report: Vaccine attitudes in the age of COVID-19 for a population of children with mitochondrial disease* (2022)
-*   *Comprehensive profiling of the human viral exposome in households containing an at‐risk child with mitochondrial disease during the 2020–2021 COVID‐19 pandemic* (2022)
-*   *Public Access to Advance Equity*, Issues in Science and Technology (2022)
-*   *Breakthroughs for All: Delivering Equitable Access to America’s Research*, The White House (2022)
-*   *Desirable Characteristics of Data Repositories for Federally Funded Research*, National Science and Technology Council (2022)
-*   *Interpersonal Correlates of Dementia Caregivers’ Emotional Support Networks: Considering Family History*, (2022)
-*   *Undiagnosed COVID-19 in households with a child with mitochondrial disease* (2022)
-*   *Join the Effort to Develop a Scientific Integrity Framework*, The White House (2022)
-*   *Risk mitigation behaviors to prevent infection in the mitochondrial disease community during the COVID-19 pandemic*  (2022)
-*   *Protecting the Integrity of Government Science*, National Science and Technology Council (2022)
+*   *Peer review of ["Open Science at the Generative AI Turn: An Exploratory Analysis of Challenges and Opportunities"](10.5281/zenodo.11320176)* (2024)
+*   *Peer Review of ["Artificial Intelligence in Healthcare: 2023 Year in Review (Preprint)"](doi:10.2196/65151)* (2024)
+*   *[Drinking from the Firehose? Write More and Publish Less](https://doi.org/10.54900/r8zwg-62003)* (2024)
+*   *[NNI Nanoinformatics Conference 2023: Movement Toward a Common Infrastructure for Federal nanoEHS Data](10.5281/zenodo.11068966)* (2024)
+*   *[2023: A Year of Open Science in Review](10.5281/zenodo.10467495.)* (2024)
+*   *[A Plan to Develop Open Science’s Green Shoots into a Thriving Garden](https://doi.org/10.58875/MZSW4704)* (2024)
+*   *[Advancing the culture of peer review with preprints](https://doi.org/10.31219/osf.io/cht8p)* (2023)
+*   *[A Framework for Federal Scientific Integrity Policy and Practice](https://www.whitehouse.gov/wp-content/uploads/2023/01/01-2023-Framework-for-Federal-Scientific-Integrity-Policy-and-Practice.pdf)*, National Science and Technology Council (2023)
+*   *[Short report: Vaccine attitudes in the age of COVID-19 for a population of children with mitochondrial disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9510065)* (2022)
+*   *[Comprehensive profiling of the human viral exposome in households containing an at‐risk child with mitochondrial disease during the 2020–2021 COVID‐19 pandemic](https://pubmed.ncbi.nlm.nih.gov/36336785/)* (2022)
+*   *[Public Access to Advance Equity](https://issues.org/public-open-access-advance-equity-ostp-nelson-marcum-isler/)* (2022)
+*   *[Breakthroughs for All: Delivering Equitable Access to America’s Research](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/breakthroughs-for-alldelivering-equitable-access-to-americas-research/)*, The White House (2022)
+*   *[Desirable Characteristics of Data Repositories for Federally Funded Research](https://doi.org/10.5479/10088/113528)*, National Science and Technology Council (2022)
+*   *[Interpersonal Correlates of Dementia Caregivers’ Emotional Support Networks: Considering Family History](https://pubmed.ncbi.nlm.nih.gov/34372731/)*, (2022)
+*   *[Undiagnosed COVID-19 in households with a child with mitochondrial disease](https://pubmed.ncbi.nlm.nih.gov/35350208/)* (2022)
+*   *[Protecting the Integrity of Government Science](https://www.whitehouse.gov/wp-content/uploads/2022/01/01-22-Protecting_the_Integrity_of_Government_Science.pdf)*, National Science and Technology Council (2022)
+*   *[Risk mitigation behaviors to prevent infection in the mitochondrial disease community during the COVID-19 pandemic](https://pubmed.ncbi.nlm.nih.gov/34956836/)* (2021)
+*   *[Exponential-Family Random Graph Models for Multi-Layer Networks](https://pubmed.ncbi.nlm.nih.gov/33025459/)* (2020)
 
-[^1]: Aligning with [HHMI's](https://www.hhmi.org/about/policies) plan to reform tenure and promotion by valuing content over prestige, I've decided to remove journal titles from my CV. A more complete publication history can be found on my [ORCID](https://orcid.org/0000-0002-0899-6143).
+[^1]: Aligning with [HHMI's](https://www.hhmi.org/about/policies) plan to reform tenure and promotion by valuing content over prestige, I've decided to remove journal titles from my CV. Additionally, I've linked to more equitable sources of the record of versions, including National Library of Medicine PubMed IDs, or DOIs to [Green Open Access](https://en.wikipedia.org/wiki/Self-archiving) or preprint versions of these manuscripts whenever possible. A more complete publication history can be found on my [ORCID](https://orcid.org/0000-0002-0899-6143).
