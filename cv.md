@@ -20,7 +20,6 @@
 *   **PhD**, Sociology, University of California, Irvine (2011)
 *   **MA**, Demographic and Social Analysis, University of California, Irvine (2007)
 *   **BA**, Sociology, University of Arizona (2004)
-
 *   **Open Science 101**, NASA (2023)
 *   **OMB MAX Federal Sponsorship and Administrator Training**, NITRD (2022)
 *   **Google Cloud Platform Training**, NIH (2020)
