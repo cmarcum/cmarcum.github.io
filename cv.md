@@ -43,11 +43,11 @@
     *   Citation: For extraordinary efforts and resilience during a difficult time of transition.
 
 **Selected Scholarly Writing[^1] (2020 - Present)**
-*   *Peer review of ["Open Science at the Generative AI Turn: An Exploratory Analysis of Challenges and Opportunities"](10.5281/zenodo.11320176)* (2024)
-*   *Peer Review of ["Artificial Intelligence in Healthcare: 2023 Year in Review (Preprint)"](10.2196/65151)* (2024)
+*   *Peer review of ["Open Science at the Generative AI Turn: An Exploratory Analysis of Challenges and Opportunities"](https://www.doi.org/10.5281/zenodo.11320176)* (2024)
+*   *Peer Review of ["Artificial Intelligence in Healthcare: 2023 Year in Review (Preprint)"](https://www.doi.org/10.2196/65151)* (2024)
 *   *[Drinking from the Firehose? Write More and Publish Less](https://doi.org/10.54900/r8zwg-62003)* (2024)
-*   *[NNI Nanoinformatics Conference 2023: Movement Toward a Common Infrastructure for Federal nanoEHS Data](10.5281/zenodo.11068966)* (2024)
-*   *[2023: A Year of Open Science in Review](10.5281/zenodo.10467495.)* (2024)
+*   *[NNI Nanoinformatics Conference 2023: Movement Toward a Common Infrastructure for Federal nanoEHS Data](https://www.doi.org/10.5281/zenodo.11068966)* (2024)
+*   *[2023: A Year of Open Science in Review](https://www.doi.org/10.5281/zenodo.10467495.)* (2024)
 *   *[A Plan to Develop Open Science’s Green Shoots into a Thriving Garden](https://doi.org/10.58875/MZSW4704)* (2024)
 *   *[Advancing the culture of peer review with preprints](https://doi.org/10.31219/osf.io/cht8p)* (2023)
 *   *[A Framework for Federal Scientific Integrity Policy and Practice](https://www.whitehouse.gov/wp-content/uploads/2023/01/01-2023-Framework-for-Federal-Scientific-Integrity-Policy-and-Practice.pdf)*, National Science and Technology Council (2023)
