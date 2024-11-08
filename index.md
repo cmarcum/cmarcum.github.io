@@ -1,6 +1,10 @@
 <b>I am a science policy wonk.</b>
 
-My current role is Senior Statistician and Senior Scientist in the White House Office of Management and Budget, Office of the Chief Statistician of the United States. My portfolio focuses on data access, science and information policy, cybersecurity, and artificial intelligence.  Previously, I served as the Assistant Director for Open Science and Data Policy at the White House Office of Science and Technology Policy.  In that capacity, I advanced the Biden-Harris Administration priorities on restoring trust in government through scientific integrity and evidence-based policy making and delivering a more equitably accessible return on the American public's investments in Federal research and development through open science and public access. 
+My current role is Senior Statistician and Senior Scientist in the White House Office of Management and Budget, Office of the Chief Statistician of the United States. 
+
+<!---
+My portfolio focuses on data access, science and information policy, cybersecurity, and artificial intelligence.  Previously, I served as the Assistant Director for Open Science and Data Policy at the White House Office of Science and Technology Policy.  In that capacity, I advanced the Biden-Harris Administration priorities on restoring trust in government through scientific integrity and evidence-based policy making and delivering a more equitably accessible return on the American public's investments in Federal research and development through open science and public access. 
+--->
 
 My ORCID ID is: [0000-0002-0899-6143](https://orcid.org/0000-0002-0899-6143).
 
@@ -8,7 +12,9 @@ My LinkedIn is: [christopher-steven-marcum-15b88249](https://www.linkedin.com/in
 
 [Abridged resume.](cv)
 
+
 <details>
+<!---
 <summary>Narrative Resume</summary>
 <p>
 I hold a master's degree in Demographic Analysis (2007) and a doctorate in Sociology (2011) from the University of California, Irvine. A mathematical sociologist by training, I served as a research associate in the Networks, Computation, and Social Dynamics Lab at CALIT2 while completing my doctoral research, which focused on how <a href="https://osf.io/6bjuw/">aging and health shapes changes in daily social contact</a>. I completed a postdoctoral fellowship in economics and statistics at the RAND Corporation where I developed mixed <a href="https://link.springer.com/chapter/10.1007/978-1-4614-5474-8_13">mathematical models of influenza vaccination decision behavior</a> using real-world data. 
@@ -30,6 +36,7 @@ As the Assistant Director for Open Science and Data Policy in the White House Of
 <p>
 In the Spring of 2023, I joined the career staff of the Office of Management and Budget to serve in joint science and statistical policy roles within the <a href="https://www.statspolicy.gov">Office of the Chief Statistician of the United States.</a>  My portfolio in OMB focuses on data access, science and information policy, cybersecurity, and artificial intelligence. I'm the Chair of the Federal Statistical Research Data Center Program Executive Committee and the staff lead on matters related to scientific integrity, open science, and research security.
 </p>
+--->
 
 <p>
 Outside of my career, I am an [avid photographer](photography) and nature enthusiast. I enjoy spending time adventuring outdoors with my kiddo. We have a doggo, Tanner the Mayor, and a kitty, Lucy Lou Louise.  
