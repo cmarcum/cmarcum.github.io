@@ -39,7 +39,7 @@ In the Spring of 2023, I joined the career staff of the Office of Management and
 --->
 
 <p>
-Outside of my career, I am an [avid photographer](photography) and nature enthusiast. I enjoy spending time adventuring outdoors with my kiddo. We have a doggo, Tanner the Mayor, and a kitty, Lucy Lou Louise.  
+Outside of my career, I am an avid photographer and nature enthusiast. I enjoy spending time adventuring outdoors with my kiddo. We have a doggo, Tanner the Mayor, and a kitty, Lucy Lou Louise.  
 </p>
 </details>
 
