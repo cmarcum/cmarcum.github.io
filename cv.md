@@ -8,11 +8,11 @@
 
 **Experience**
 *   **Senior Statistician & Senior Scientist**, Office of Management and Budget (2023 - Present)
-    *   Serves in the Office of the Chief Statistician of the United States as lead for information policy, scientific integrity, cybersecurity, artificial intelligence, and the federal statistical research data center program.
+    *   Serves in the Office of the Chief Statistician of the United States as lead for information and science policy, scientific integrity, cybersecurity, artificial intelligence, and the federal statistical research data center program.
 *   **Assistant Director for Open Science & Data Policy**, Office of Science and Technology Policy (2022 - 2023)
-    *   Directed public access, scientific integrity, and open science policies for the Science and Society Team.
+    *   Directed public access, scientific integrity, and open science policies for the whole of the federal government.
 *   **Staff Scientist for Data Policy**, National Institute of Allergy and Infectious Diseases (2020 - 2021)
-    *   Focused on data science strategy and served as Genomic Program Administrator.
+    *   Led data science strategy and served as Genomic Program Administrator and Chair of the Data Access Committee.
 *   **Staff Scientist for Methodology**, National Human Genome Research Institute (2013 - 2021)
     *   Maintained an extensive portfolio of basic research on social network methods, gerontology, and social determinants of health.
 
@@ -39,6 +39,8 @@
 *   **Commendation of Exceptional Service**, White House Office of Science and Technology Policy (2022)
     *   Citation: For exceptional service to the American people as a member of the President's Fast Track Action Committee on Scientific Integrity.
 *   **Fellow**, Gerontological Society of America (2022)
+*   **Co-Chair**, National Science and Technology Policy Council, Subcommittee on Open Science (2022-2023).
+*   **Co-Chair**, National Science and Technology Policy Council, Subcommittee on Scientific Integrity (2022-2023).
 *   **GREAT Award**, National Human Genome Research Institute (2020)
     *   Citation: For extraordinary efforts and resilience during a difficult time of transition.
 
