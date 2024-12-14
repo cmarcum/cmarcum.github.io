@@ -1,6 +1,7 @@
 # Christopher Steven Marcum
 *Mathematical Sociologist | Gerontologist | Science Policy Wonk*
 ---
+
 **Contact**
 *   **Website:** [www.chrismarcum.com](http://www.chrismarcum.com)
 *   **Email:** christopher.steven.marcum@gmail.com
@@ -45,6 +46,7 @@
     *   Citation: For extraordinary efforts and resilience during a difficult time of transition.
 
 **Selected Scholarly Writing[^1] (2020 - Present)**
+*   *[Three Simple Steps to Reform Academic Reward Systems](https://www.uksg.org/newsletter/uksg-enews-577/three-simple-steps-to-reform-academic-reward-systems/)* (2024)
 *   *Peer review of ["Open Science at the Generative AI Turn: An Exploratory Analysis of Challenges and Opportunities"](https://www.doi.org/10.5281/zenodo.11320176)* (2024)
 *   *Peer Review of ["Artificial Intelligence in Healthcare: 2023 Year in Review (Preprint)"](https://www.doi.org/10.2196/65151)* (2024)
 *   *[Drinking from the Firehose? Write More and Publish Less](https://doi.org/10.54900/r8zwg-62003)* (2024)
@@ -64,4 +66,4 @@
 *   *[Risk mitigation behaviors to prevent infection in the mitochondrial disease community during the COVID-19 pandemic](https://pubmed.ncbi.nlm.nih.gov/34956836/)* (2021)
 *   *[Exponential-Family Random Graph Models for Multi-Layer Networks](https://pubmed.ncbi.nlm.nih.gov/33025459/)* (2020)
 
-[^1]: Aligning with [HHMI's](https://www.hhmi.org/about/policies) plan to reform tenure and promotion by valuing content over prestige, I've decided to remove journal titles from my CV. Additionally, I've linked to more equitable sources of the record of versions, including National Library of Medicine PubMed IDs, or DOIs to [Green Open Access](https://en.wikipedia.org/wiki/Self-archiving) or preprint versions of these manuscripts whenever possible. A more complete publication history can be found on my [ORCID](https://orcid.org/0000-0002-0899-6143).
+[^1]: Aligning with [HHMI's](https://www.hhmi.org/about/policies) plan to reform tenure and promotion by valuing content over prestige, I've decided to remove journal titles from my CV. Additionally, I've linked to more equitable sources of the record of versions, including National Library of Medicine PubMed IDs, or DOIs to [Green Open Access](https://en.wikipedia.org/wiki/Self-archiving) or preprint versions of these manuscripts whenever possible. Most of my writing is available through open licenses or through the public domain.  A more complete publication history can be found on my [ORCID](https://orcid.org/0000-0002-0899-6143).
