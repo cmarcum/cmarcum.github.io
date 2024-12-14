@@ -7,11 +7,16 @@
 *   **Email:** christopher.steven.marcum@gmail.com
 *   **Social:** [Mastodon](https://sciences.social/@csmarcum) | [GitHub](https://github.com/cmarcum) | [LinkedIn](https://www.linkedin.com/in/christopher-steven-marcum-15b88249/) | [ORCID](https://orcid.org/0000-0002-0899-6143)
 
+
 **Experience**
+
+***Executive Office of the President***
 *   **Senior Statistician & Senior Scientist**, Office of Management and Budget (2023 - Present)
     *   Serves in the Office of the Chief Statistician of the United States as lead for information and science policy, scientific integrity, cybersecurity, artificial intelligence, and the federal statistical research data center program.
 *   **Assistant Director for Open Science & Data Policy**, Office of Science and Technology Policy (2022 - 2023)
     *   Directed public access, scientific integrity, and open science policies for the whole of the federal government.
+
+***National Institutes of Health***
 *   **Staff Scientist for Data Policy**, National Institute of Allergy and Infectious Diseases (2020 - 2021)
     *   Led data science strategy and served as Genomic Program Administrator and Chair of the Data Access Committee.
 *   **Staff Scientist for Methodology**, National Human Genome Research Institute (2013 - 2021)
