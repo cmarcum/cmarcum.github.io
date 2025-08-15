@@ -1,6 +1,7 @@
 <b>I am a science policy wonk.</b>
 
-My current role is Senior Statistician and Senior Scientist in the White House Office of Management and Budget, Office of the Chief Statistician of the United States. 
+- Former Assistant Director for Open Science and Data Policy at the White House Office of Science and Technology Policy 
+- Former Senior Statistician and Senior Scientist in the White House Office of Management and Budget
 
 <!---
 My portfolio focuses on data access, science and information policy, cybersecurity, and artificial intelligence.  Previously, I served as the Assistant Director for Open Science and Data Policy at the White House Office of Science and Technology Policy.  In that capacity, I advanced the Biden-Harris Administration priorities on restoring trust in government through scientific integrity and evidence-based policy making and delivering a more equitably accessible return on the American public's investments in Federal research and development through open science and public access. 
@@ -30,28 +31,17 @@ In May of 2021, I was appointed to President Biden's <a href="https://www.whiteh
 </p>
 
 <p>
-As the Assistant Director for Open Science and Data Policy in the White House Office of Science and Technology Policy (OSTP).  I oversaw transformative science policies that led to the <a href="https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf">2022 OSTP Public Access Memo</a>, the <a href="https://www.whitehouse.gov/wp-content/uploads/2023/01/01-2023-Framework-for-Federal-Scientific-Integrity-Policy-and-Practice.pdf">2023 Federal Scientific Integrity Framework</a>, and the White House declaring <a href="https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/">2023 as a Year of Open Science</a>.
+As the Assistant Director for Open Science and Data Policy in the White House Office of Science and Technology Policy (OSTP) I oversaw transformative science policies that led to the <a href="https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf">2022 OSTP Public Access Memo</a>, the <a href="https://www.whitehouse.gov/wp-content/uploads/2023/01/01-2023-Framework-for-Federal-Scientific-Integrity-Policy-and-Practice.pdf">2023 Federal Scientific Integrity Framework</a>, and the White House declaring <a href="https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/">2023 as a Year of Open Science</a>. I chartered and served as co-chair of two National Science and Technology Council subcommittees: the Subcommittee on Open Science and the Subcommittee on Scientific Integrity.  
 </p>
 
 <p>
-In the Spring of 2023, I joined the career staff of the Office of Management and Budget to serve in joint science and statistical policy roles within the <a href="https://www.statspolicy.gov">Office of the Chief Statistician of the United States.</a>  My portfolio in OMB focuses on data access, science and information policy, cybersecurity, and artificial intelligence. I'm the Chair of the Federal Statistical Research Data Center Program Executive Committee and the staff lead on matters related to scientific integrity, open science, and research security.
+As a Senior Statistician and Senior Scientist in the Office of Management and Budget's Office of Information and Regulatory Affairs I led an extensive portfolio in information policy covering both federal statistical and science agencies. This portfolio included data access, research security, information quality, cybersecurity, and artificial intelligence. I co-authored the OMB Memoranda on Open Government Data Access and Management <a href="https://whitehouse.gov/wp-content/uploads/2025/01/M-25-05-Phase-2-Implementation-of-the-Foundations-for-Evidence-Based-Policymaking-Act-of-2018-Open-Government-Data-Access-and-Management-Guidance.pdf">(M-25-05)</a> and Accelerating Federal Use of AI <a href="https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-21-Accelerating-Federal-Use-of-AI-through-Innovation-Governance-and-Public-Trust.pdf">(M-25-21)</a> and its predecessor policy, among many other official information policies for the Executive Branch. I served as chair of the Federal Statistical Research Data Center Program Executive Committee and was the OMB liaison for the Interagency Council on Statistical Policy's Subcommittee on Cybersecurity as well as for the Aging Forum and Children's Forum.
 </p>
 --->
 
 <p>
 Outside of my career, I am an avid photographer and nature enthusiast. I enjoy spending time adventuring outdoors with my kiddo. We have a doggo, Tanner the Mayor, and a kitty, Lucy Lou Louise.  
 </p>
-</details>
-
-<details>
-<summary>Professional Service</summary>
-   I currently serve in the following roles:
- <ul>
- <li> Chair of the <a href="https://www.census.gov/about/adrm/fsrdc.html">Federal Statistical Research Data Centers</a> Executive Committee</li>
- <li> Ex Officio Member for the Executive Office of the President on the National Academies of Science, Engineering, and Medicine <a href="https://www.nationalacademies.org/our-work/roundtable-on-aligning-incentives-for-open-science">Rountable on Aligning Incentives for Open Scholarship</a></li>
- <li> Advisory Committee Board Member of <a href="https://prereview.org/">PREreview</a></li>
-    
- </ul>
 </details>
 
 ---
