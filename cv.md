@@ -6,11 +6,10 @@
 *   **Email:** christopher.steven.marcum@gmail.com
 *   **Social:** [Mastodon](https://sciences.social/@csmarcum) | [GitHub](https://github.com/cmarcum) | [LinkedIn](https://www.linkedin.com/in/christopher-steven-marcum-15b88249/) | [ORCID](https://orcid.org/0000-0002-0899-6143)
 
-
 ## Experience
 ### Executive Office of the President
-*   **Senior Statistician & Senior Scientist**, Office of Management and Budget (2023 - Present)
-    *   Serves in the Office of the Chief Statistician of the United States as lead for information and science policy, scientific integrity, cybersecurity, artificial intelligence, and the federal statistical research data center program.
+*   **Senior Statistician & Senior Scientist**, Office of Management and Budget (2023 - 2025)
+    *   Served in the Office of the Chief Statistician of the United States as lead for information and science policy, scientific integrity, cybersecurity, artificial intelligence, and the federal statistical research data center program.
 *   **Assistant Director for Open Science & Data Policy**, Office of Science and Technology Policy (2022 - 2023)
     *   Directed public access, scientific integrity, and open science policies for the whole of the federal government.
 ### National Institutes of Health
@@ -34,9 +33,10 @@
 
 ## Selected Service & Distinctions (2020 - Present)
 ### Service
-*   **Chair**, Federal Statistical Research Data Centers Executive Committee (2024 - Present)
+*   **Chair**, Federal Statistical Research Data Centers Executive Committee (2024 - 2025)
 *   **Ex Officio Member for the Executive Office of the President**, National Academies of Science, Engineering, and Medicine Round Table on Aligning Incentives for Open Scholarship (2023 - Present)
-*   **Board Member**, preReview Scientific Advisory Committee (2023 - Present)
+*   **Chair**, PREreview Scientific Advisory Committee (2025 - Present)
+*   **Board Member**, PREreview Scientific Advisory Committee (2023 - Present)
 *   **Staff Lead**, Interagency Council on Statistical Policy Subcommittee on Cybersecurity (2023 - Present)
 *   **Co-Chair**, National Science and Technology Policy Council, Subcommittee on Open Science (2022-2023)
 *   **Co-Chair**, National Science and Technology Policy Council, Subcommittee on Scientific Integrity (2022-2023)
