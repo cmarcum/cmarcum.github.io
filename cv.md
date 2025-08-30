@@ -1,5 +1,5 @@
 # Christopher Steven Marcum
-*Mathematical Sociologist | Gerontologist | Science Policy Wonk*
+* Open Science Advocate | Mathematical Sociologist | Gerontologist | Science Policy Wonk*
 
 ## Contact
 *   **Website:** [www.chrismarcum.com](http://www.chrismarcum.com)
@@ -7,11 +7,18 @@
 *   **Social:** [Mastodon](https://sciences.social/@csmarcum) | [GitHub](https://github.com/cmarcum) | [LinkedIn](https://www.linkedin.com/in/christopher-steven-marcum-15b88249/) | [ORCID](https://orcid.org/0000-0002-0899-6143)
 
 ## Experience
+### Independent Consulting
+*   **Senior Fellow**, Center for Data Policy, Data Foundation (2025 - Present)
+    *   Providing thought leadership on federal data strategy and capacity building.
+*   **MOVE Fellow**, Handshake AI (2025)
+    *   Providing expertise on red-teaming, validating, and improving artificial intelligence systems.
+
 ### Executive Office of the President
 *   **Senior Statistician & Senior Scientist**, Office of Management and Budget (2023 - 2025)
     *   Served in the Office of the Chief Statistician of the United States as lead for information and science policy, scientific integrity, cybersecurity, artificial intelligence, and the federal statistical research data center program.
 *   **Assistant Director for Open Science & Data Policy**, Office of Science and Technology Policy (2022 - 2023)
     *   Directed public access, scientific integrity, and open science policies for the whole of the federal government.
+
 ### National Institutes of Health
 *   **Staff Scientist for Data Policy**, National Institute of Allergy and Infectious Diseases (2020 - 2021)
     *   Led data science strategy and served as Genomic Program Administrator and Chair of the Data Access Committee.
@@ -23,6 +30,7 @@
 *   **PhD**, Sociology, University of California, Irvine (2011)
 *   **MA**, Demographic and Social Analysis, University of California, Irvine (2007)
 *   **BA**, Sociology, University of Arizona (2004)
+  
 ### Training
 *   **Open Science 101**, NASA (2023)
 *   **OMB MAX Federal Sponsorship and Administrator Training**, NITRD (2022)
@@ -33,19 +41,25 @@
 
 ## Selected Service & Distinctions (2020 - Present)
 ### Service
-*   **Chair**, Federal Statistical Research Data Centers Executive Committee (2024 - 2025)
-*   **Ex Officio Member for the Executive Office of the President**, National Academies of Science, Engineering, and Medicine Round Table on Aligning Incentives for Open Scholarship (2023 - Present)
 *   **Chair**, PREreview Scientific Advisory Committee (2025 - Present)
+*   **Member**, American Geophysical Union Data Goverance Board (2024 - Present)
 *   **Board Member**, PREreview Scientific Advisory Committee (2023 - Present)
-*   **Staff Lead**, Interagency Council on Statistical Policy Subcommittee on Cybersecurity (2023 - Present)
+*   **Chair**, Federal Statistical Research Data Centers Executive Committee (2024 - 2025)
+*   **Ex Officio Member for the Executive Office of the President**, National Academies of Science, Engineering, and Medicine Round Table on Aligning Incentives for Open Scholarship (2023 - 2025)
+*   **Staff Lead**, Interagency Council on Statistical Policy Subcommittee on Cybersecurity (2023 - 2025)
 *   **Co-Chair**, National Science and Technology Policy Council, Subcommittee on Open Science (2022-2023)
 *   **Co-Chair**, National Science and Technology Policy Council, Subcommittee on Scientific Integrity (2022-2023)
 
 ### Distinctions
-*   **Special Achievement & Time-Off Award**, The White House (2024)
-    *   Citation: ***For collaborative leadership on the development of the Executive Order on Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence and the OMB Memorandum on Advancing Governance, Innovation, and Risk Management for Agency Use of Artificial Intelligence*** 
+*   **Elected Full Member**, Sigma Xi (2025)
+*   **Time-Off Award**, The White House (2025)
+    *   Citation: ***For outstanding policy analysis, effective collaboration, and written contributions in drafting OMB Memorandum M-25-21 on Accelerating Federal Use of AI through Innovation, Governance, and Public Trust and M-25-05 on Open Government Data Access and Management Guidance per the Foundations of Evidence-Based Policymaking Act of 2018*** 
+*   **Special Achievement Group Award**, The White House (2024)
+    *   Citation: ***For indispensible leadership, policy analysis, and teamwork to advance OMB information policy equities in the formulation of government-wide policy and governance via Executive Order 14110 and OMB Memorandum M-24-10 on Advancing Governance, Innovation, and Risk Management for Agency Use of Artificial Intelligence***
+*   **Time-Off Award**, The White House (2024)
+    *   Citation: ***For effective interagency collaboration for the Interagency Council on Statistical Policy, advancing the Cybersecurity Working Group's efforts to align cybersecurity and statistical policy as well as the Federal Statistical Research Data Center Executive Committee's three-prong strategic plan for equitable data access***  
 *   **On the Spot Award**, The White House (2023)
-    *   Citation:   ***For development of the three-arm strategic action plan to expand equitable access to confidential data in the federal statistical research data center program***
+    *   Citation:   ***For spearheading the development of a three-prong action plan for the Federal Statistical Research Data Center Executive Committee, designed to expand equitable access to restricted, confidential Federal statistical data***
 *   **Special Acts or Service Award**, National Institute of Allergy and Infectious Diseases (2022)
     *   Citation: ***For establishing the Data Access Committee and leadership in the Office of Data Science and Emerging Technology during the COVID-19 pandemic*** 
 *   **Commendation of Exceptional Service**, White House Office of Science and Technology Policy (2022)
@@ -55,6 +69,7 @@
     *   Citation: ***For extraordinary efforts and resilience during a difficult time of transition***
 
 ## Selected Scholarly Writing[^1] (2020 - Present)
+*   *[Let Unfunded Grant Applications See the Light of Day](https://issues.org/unfunded-grant-applications-open-science-buck-marcum/)* (2025)
 *   *[Three Simple Steps to Reform Academic Reward Systems](https://www.uksg.org/newsletter/uksg-enews-577/three-simple-steps-to-reform-academic-reward-systems/)* (2024)
 *   *Peer review of ["Open Science at the Generative AI Turn: An Exploratory Analysis of Challenges and Opportunities"](https://www.doi.org/10.5281/zenodo.11320176)* (2024)
 *   *Peer Review of ["Artificial Intelligence in Healthcare: 2023 Year in Review (Preprint)"](https://www.doi.org/10.2196/65151)* (2024)
@@ -75,4 +90,4 @@
 *   *[Risk mitigation behaviors to prevent infection in the mitochondrial disease community during the COVID-19 pandemic](https://pubmed.ncbi.nlm.nih.gov/34956836/)* (2021)
 *   *[Exponential-Family Random Graph Models for Multi-Layer Networks](https://pubmed.ncbi.nlm.nih.gov/33025459/)* (2020)
 
-[^1]: Aligning with [HHMI's](https://www.hhmi.org/about/policies) plan to reform tenure and promotion by valuing content over prestige, I've decided to remove journal titles from my CV. Additionally, I've linked to more equitable sources of the record of versions, including National Library of Medicine PubMed IDs, or DOIs to [Green Open Access](https://en.wikipedia.org/wiki/Self-archiving) or preprint versions of these manuscripts whenever possible. Most of my writing is available through open licenses or through the public domain.  A more complete publication history can be found on my [ORCID](https://orcid.org/0000-0002-0899-6143).
+[^1]: Aligning with movement by [HHMI](https://www.hhmi.org/about/policies) and other organizations to reform tenure and promotion by valuing content over prestige, I've decided to remove journal titles from my CV. Additionally, I've linked to more equitable sources of the record of versions, including National Library of Medicine PubMed IDs, or DOIs to [Green Open Access](https://en.wikipedia.org/wiki/Self-archiving) or preprint versions of these manuscripts whenever possible. Most of my writing is available through open licenses or through the public domain.  A more complete publication history can be found on my [ORCID](https://orcid.org/0000-0002-0899-6143).
