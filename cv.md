@@ -9,14 +9,16 @@
 ## Experience
 ### Independent Consulting
 *   **Senior Fellow**, Center for Data Policy, Data Foundation (2025 - Present)
-    *   Providing thought leadership on federal data strategy and capacity building.
+    *   Providing thought leadership on federal data strategy, governance, and capacity building.
 *   **MOVE Fellow**, Handshake AI (2025)
     *   Providing expertise on red-teaming, validating, and improving artificial intelligence systems.
+*   **Select Clients**
+    *   [dataindex.us](dataindex.us); Handshake.AI; Mercor; University of California, Berkeley; University of Michigan; SPARC; New Venture Fund
 
 ### Executive Office of the President
-*   **Senior Statistician & Senior Scientist**, Office of Management and Budget (2023 - 2025)
+*   **Senior Statistician & Senior Scientist**, White House Office of Management and Budget (2023 - 2025)
     *   Served in the Office of the Chief Statistician of the United States as lead for information and science policy, scientific integrity, cybersecurity, artificial intelligence, and the federal statistical research data center program.
-*   **Assistant Director for Open Science & Data Policy**, Office of Science and Technology Policy (2022 - 2023)
+*   **Assistant Director for Open Science & Data Policy**, White House Office of Science and Technology Policy (2022 - 2023)
     *   Directed public access, scientific integrity, and open science policies for the whole of the federal government.
 
 ### National Institutes of Health
@@ -41,6 +43,8 @@
 
 ## Selected Service & Distinctions (2020 - Present)
 ### Service
+*   **Board Member**, ASAPBio Board of Directors (2026 - Present)
+*   **Member**, Steering Committee for _Ensuring the Preservation, Accessibility, and Usability of Public Data_, Center for Open Science (2025 - Present)
 *   **Chair**, PREreview Scientific Advisory Committee (2025 - Present)
 *   **Member**, American Geophysical Union Data Goverance Board (2024 - Present)
 *   **Board Member**, PREreview Scientific Advisory Committee (2023 - Present)
@@ -50,7 +54,7 @@
 *   **Co-Chair**, National Science and Technology Policy Council, Subcommittee on Open Science (2022-2023)
 *   **Co-Chair**, National Science and Technology Policy Council, Subcommittee on Scientific Integrity (2022-2023)
 
-### Distinctions
+### Selected Distinctions
 *   **Elected Full Member**, Sigma Xi (2025)
 *   **Time-Off Award**, The White House (2025)
     *   Citation: ***For outstanding policy analysis, effective collaboration, and written contributions in drafting OMB Memorandum M-25-21 on Accelerating Federal Use of AI through Innovation, Governance, and Public Trust and M-25-05 on Open Government Data Access and Management Guidance per the Foundations of Evidence-Based Policymaking Act of 2018*** 
@@ -68,7 +72,9 @@
 *   **GREAT Award**, National Human Genome Research Institute (2020)
     *   Citation: ***For extraordinary efforts and resilience during a difficult time of transition***
 
-## Selected Scholarly Writing[^1] (2020 - Present)
+## Selected Scholarly Writing and Perspectives[^1] (2020 - Present)
+*   *[Expand Data Access!](https://issues.org/nih-irb-data-alexander-zetina-beale-forum/)* (2025)
+*   *[National AI Ambitions Need a Data Governance Backbone. RDaF Can Provide It.](https://www.techpolicy.press/national-ai-ambitions-need-a-data-governance-backbone-rdaf-can-provide-it/)* (2025)
 *   *[Let Unfunded Grant Applications See the Light of Day](https://issues.org/unfunded-grant-applications-open-science-buck-marcum/)* (2025)
 *   *[Three Simple Steps to Reform Academic Reward Systems](https://www.uksg.org/newsletter/uksg-enews-577/three-simple-steps-to-reform-academic-reward-systems/)* (2024)
 *   *Peer review of ["Open Science at the Generative AI Turn: An Exploratory Analysis of Challenges and Opportunities"](https://www.doi.org/10.5281/zenodo.11320176)* (2024)
@@ -90,4 +96,4 @@
 *   *[Risk mitigation behaviors to prevent infection in the mitochondrial disease community during the COVID-19 pandemic](https://pubmed.ncbi.nlm.nih.gov/34956836/)* (2021)
 *   *[Exponential-Family Random Graph Models for Multi-Layer Networks](https://pubmed.ncbi.nlm.nih.gov/33025459/)* (2020)
 
-[^1]: Aligning with movement by [HHMI](https://www.hhmi.org/about/policies) and other organizations to reform tenure and promotion by valuing content over prestige, I've decided to remove journal titles from my CV. Additionally, I've linked to more equitable sources of the record of versions, including National Library of Medicine PubMed IDs, or DOIs to [Green Open Access](https://en.wikipedia.org/wiki/Self-archiving) or preprint versions of these manuscripts whenever possible. Most of my writing is available through open licenses or through the public domain.  A more complete publication history can be found on my [ORCID](https://orcid.org/0000-0002-0899-6143).
+[^1]: Aligning with the movement to reform tenure and promotion by valuing content over prestige, I’ve decided to remove journal titles from my CV (see, [HHMI's plan](https://www.hhmi.org/about/policies)). Additionally, I've linked to more equitable sources of the record of versions, including National Library of Medicine PubMed IDs, or DOIs to [Green Open Access](https://en.wikipedia.org/wiki/Self-archiving) or preprint versions of these manuscripts whenever possible. Most of my writing is available through open licenses or through the public domain.  A more complete publication history of over 70 articles can be found on my [ORCID](https://orcid.org/0000-0002-0899-6143).
