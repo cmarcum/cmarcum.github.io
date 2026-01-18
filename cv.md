@@ -13,7 +13,7 @@
 *   **MOVE Fellow**, Handshake AI (2025)
     *   Providing expertise on red-teaming, validating, and improving artificial intelligence systems.
 *   **Select Clients**
-    *   [dataindex.us](dataindex.us); Handshake.AI; Mercor; University of California, Berkeley; University of Michigan; SPARC; New Venture Fund
+    *   [dataindex.us](https://dataindex.us); Handshake.AI; Mercor; University of California, Berkeley; University of Michigan; SPARC; New Venture Fund
 
 ### Executive Office of the President
 *   **Senior Statistician & Senior Scientist**, White House Office of Management and Budget (2023 - 2025)
