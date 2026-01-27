@@ -7,13 +7,11 @@
 My portfolio focuses on data access, science and information policy, cybersecurity, and artificial intelligence.  Previously, I served as the Assistant Director for Open Science and Data Policy at the White House Office of Science and Technology Policy.  In that capacity, I advanced the Biden-Harris Administration priorities on restoring trust in government through scientific integrity and evidence-based policy making and delivering a more equitably accessible return on the American public's investments in Federal research and development through open science and public access. 
 --->
 
-My ORCID ID is: [0000-0002-0899-6143](https://orcid.org/0000-0002-0899-6143).
+- My ORCID ID is: [0000-0002-0899-6143](https://orcid.org/0000-0002-0899-6143).
+  - [CV Automatically Generated from my ORCID ID record](/orcid-cv/)
 
-My LinkedIn is: [christopher-steven-marcum-15b88249](https://www.linkedin.com/in/christopher-steven-marcum-15b88249/)
-
-[Abridged resume.](cv)
-
-[Open Evidence Blog](/marcum-blog/)
+- My LinkedIn is: [christopher-steven-marcum-15b88249](https://www.linkedin.com/in/christopher-steven-marcum-15b88249/)
+  - [Abridged resume.](cv)
 
 <details>
 <!---
@@ -30,15 +28,14 @@ I joined the <a href="https://www.niaid.nih.gov/research/data-science">Office of
 <p>
 In May of 2021, I was appointed to President Biden's <a href="https://www.whitehouse.gov/ostp/news-updates/2021/06/25/the-biden-administrations-scientific-integrity-task-force-seeks-ideas-from-the-american-people/">Scientific Integrity Fast Track Action Committee</a> to represent the National Institutes of Health. This work is a whole-of-government effort to report on good practices in, and opportunities for, scientific integrity within US Federal government scientific workforce. The White House Office of Science and Technology Policy is spearheading this effort per the Presidential Memorandum on <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/memorandum-on-restoring-trust-in-government-through-scientific-integrity-and-evidence-based-policymaking/">Restoring Trust in Government Through Scientific Integrity and Evidence-Based Policymaking</a>. Right before the <a href="https://www.whitehouse.gov/ostp/news-updates/2022/01/11/white-house-office-of-science-technology-policy-releases-scientific-integrity-task-force-report/">report was published</a>, I joined OSTP to help lead this important work.
 </p>
-
+--->
 <p>
-As the Assistant Director for Open Science and Data Policy in the White House Office of Science and Technology Policy (OSTP) I oversaw transformative science policies that led to the <a href="https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf">2022 OSTP Public Access Memo</a>, the <a href="https://www.whitehouse.gov/wp-content/uploads/2023/01/01-2023-Framework-for-Federal-Scientific-Integrity-Policy-and-Practice.pdf">2023 Federal Scientific Integrity Framework</a>, and the White House declaring <a href="https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/">2023 as a Year of Open Science</a>. I chartered and served as co-chair of two National Science and Technology Council subcommittees: the Subcommittee on Open Science and the Subcommittee on Scientific Integrity.  
+As the Assistant Director for Open Science and Data Policy in the White House Office of Science and Technology Policy (OSTP) I oversaw transformative science policies that led to the <a href="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf">2022 OSTP Public Access Memo</a>, the <a href="[https://www.whitehouse.gov](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/01/01-2023-Framework-for-Federal-Scientific-Integrity-Policy-and-Practice.pdf">2023 Federal Scientific Integrity Framework</a>, and the White House declaring <a href="https://bidenwhitehouse.archives.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/">2023 as a Year of Open Science</a>. I chartered and served as co-chair of two National Science and Technology Council subcommittees: the Subcommittee on Open Science and the Subcommittee on Scientific Integrity.  
 </p>
 
 <p>
 As a Senior Statistician and Senior Scientist in the Office of Management and Budget's Office of Information and Regulatory Affairs I led an extensive portfolio in information policy covering both federal statistical and science agencies. This portfolio included data access, research security, information quality, cybersecurity, and artificial intelligence. I co-authored the OMB Memoranda on Open Government Data Access and Management <a href="https://whitehouse.gov/wp-content/uploads/2025/01/M-25-05-Phase-2-Implementation-of-the-Foundations-for-Evidence-Based-Policymaking-Act-of-2018-Open-Government-Data-Access-and-Management-Guidance.pdf">(M-25-05)</a> and Accelerating Federal Use of AI <a href="https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-21-Accelerating-Federal-Use-of-AI-through-Innovation-Governance-and-Public-Trust.pdf">(M-25-21)</a> and its predecessor policy, among many other official information policies for the Executive Branch. I served as chair of the Federal Statistical Research Data Center Program Executive Committee and was the OMB liaison for the Interagency Council on Statistical Policy's Subcommittee on Cybersecurity as well as for the Aging Forum and Children's Forum.
 </p>
---->
 
 <p>
 Outside of my career, I am an avid photographer and nature enthusiast. I enjoy spending time adventuring outdoors with my kiddo. We have a doggo, Tanner the Mayor, and a kitty, Lucy Lou Louise.  
@@ -46,7 +43,7 @@ Outside of my career, I am an avid photographer and nature enthusiast. I enjoy s
 </details>
 
 ---
-I toot on [sciences.social/@csmarcum](https://sciences.social/@csmarcum) :
+I maintain a [RogueScholar](https://rogue-scholar.org/communities/chrismarcum/records?q=&l=list&p=1&s=10&sort=newest) indexed blog called [Open Evidence](/marcum-blog/). I have a bluesky account [my bluesky account](https://bsky.app/profile/csmarcum.bsky.social) and I toot on [sciences.social/@csmarcum](https://sciences.social/@csmarcum):
 
 <aside>
 <a class="mastodon-feed"
