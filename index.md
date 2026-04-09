@@ -43,7 +43,7 @@ Outside of my career, I am an avid photographer and nature enthusiast. I enjoy s
 </details>
 
 ---
-I maintain a [RogueScholar](https://rogue-scholar.org/communities/chrismarcum/records?q=&l=list&p=1&s=10&sort=newest) indexed blog called [Open Evidence](/marcum-blog/). I have a bluesky account [my bluesky account](https://bsky.app/profile/csmarcum.bsky.social) and I toot on [sciences.social/@csmarcum](https://sciences.social/@csmarcum):
+I maintain a [RogueScholar](https://rogue-scholar.org/communities/chrismarcum/records?q=&l=list&p=1&s=10&sort=newest) indexed blog called [Open Evidence](/marcum-blog/). I have a [bluesky account](https://bsky.app/profile/csmarcum.bsky.social) and I toot on [sciences.social/@csmarcum](https://sciences.social/@csmarcum):
 
 <aside>
 <a class="mastodon-feed"
