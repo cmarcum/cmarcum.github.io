@@ -8,7 +8,7 @@ My portfolio focuses on data access, science and information policy, cybersecuri
 --->
 
 - My ORCID ID is: [0000-0002-0899-6143](https://orcid.org/0000-0002-0899-6143).
-  - [CV Automatically Generated from my ORCID ID record](/orcid-cv/)
+  - [CV Automagically Generated from my ORCID ID record](/orcid-cv/)
 
 - My LinkedIn is: [christopher-steven-marcum-15b88249](https://www.linkedin.com/in/christopher-steven-marcum-15b88249/)
   - [Abridged resume.](cv)
