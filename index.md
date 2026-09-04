@@ -1,5 +1,5 @@
 <b>I'm an open science advocate, mathematical sociologist, gerontologist, and science policy wonk.</b>
-- Currently an independent consultant and a Senior Fellow at the Data Foundation.
+- Currently an independent consultant and a Senior Advisor for Data Policy at the Federation of American Scientists and Senior Fellow at the Data Foundation.
 - Former Assistant Director for Open Science and Data Policy at the White House Office of Science and Technology Policy 
 - Former Senior Statistician and Senior Scientist in the White House Office of Management and Budget
 
